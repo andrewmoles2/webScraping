@@ -1,6 +1,8 @@
 # Webscraping Lionel Messi career data from Wikepedia
 
 # load libaries ----
+library(here)
+
 # clean data
 library(tidyverse)
 library(lubridate)
@@ -69,3 +71,33 @@ messi_club <- messi_club_tab %>%
 # regex means: find [ and all data after [
 
 # clean international data ----
+messi_int <- messi_int_tab %>%
+  rename(competitive_apps = competitive,
+         competitive_goals = competitive_2,
+         friendly_apps = friendly,
+         friendly_goals = friendly_2,
+         total_apps = total,
+         total_goals = total_2) %>%
+  filter(!str_detect(year, "Total|total")) %>% # remove total rows
+  slice(-1) %>%
+  mutate(team = word(team, sep = "\\["),
+         competitive_apps = word(competitive_apps, sep = "\\["),
+         total_apps = word(total_apps, sep = "\\[")) %>%
+  na_if("—")
+
+# join club and international (by year)
+# first, make a year col in the club data
+messi_club <- messi_club %>%
+  mutate(year = str_replace(season, "\\–.*", ""))
+
+messi_all <- full_join(messi_club, messi_int, by = "year")
+
+# export datasets ----
+# club data
+write_csv(messi_club, here("R", "data", "messi_club.csv"))
+
+# career data
+write_csv(messi_int, here("R", "data", "messi_int.csv"))
+
+# all data
+write_csv(messi_all, here("R", "data", "messi_all.csv"))
