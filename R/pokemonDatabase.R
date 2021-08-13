@@ -35,20 +35,23 @@ gen6 <- 650:721
 gen7 <- 722:809
 gen8 <- 810:898
 
-pokemon <- pokemon_tab %>%
-  mutate(legendary = Name %in% legendary) %>%
+pokemon <- pokemon_tab %>% 
+  mutate(legendary = str_detect(pokemon_tab$Name, paste(legendary, collapse = "|"))) %>%
   rename(Number = `#`) %>%
   tidyr::separate(Type,
                   into = c('Type1','Type2'),
                   sep = "(?<=[a-z])(?=[A-Z])") %>%
-  filter(str_detect(Name, "Mega|Alolan|Galarian", negate = TRUE)) %>%
+  filter(str_detect(Name, "Mega|Alolan|Galarian|Primal|Partner|Altered", negate = TRUE)) %>%
   mutate(gen = if_else(Number %in% gen1, 1, 
                        if_else(Number %in% gen2, 2,
                                if_else(Number %in% gen3, 3,
                                        if_else(Number %in% gen4, 4,
                                                if_else(Number %in% gen5, 5,
                                                        if_else(Number %in% gen6, 6,
-                                                               if_else(Number %in% gen7, 7, 8))))))))
+                                                               if_else(Number %in% gen7, 7, 8)))))))) 
+
+
+
 
 
 # write out to csv format
