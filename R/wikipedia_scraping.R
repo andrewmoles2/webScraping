@@ -18,7 +18,7 @@ messi_url <- "https://en.wikipedia.org/wiki/Lionel_Messi"
 indep_url <- "https://en.wikipedia.org/wiki/List_of_national_independence_days"
 
 # using polite ----
-
+# 
 url_bow_indep <- polite::bow(indep_url)
 url_bow_indep
 
