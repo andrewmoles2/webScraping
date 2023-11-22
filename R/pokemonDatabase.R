@@ -26,7 +26,11 @@ legendary <- c('Articuno', 'Zapdos', 'Moltres', 'Raikou', 'Entei', 'Suicune', 'R
                'Cosmoem', 'Solgaleo', 'Lunala', 'Necrozma', 'Zacian', 'Zamazenta', 'Eternatus',
                'Calyrex', 'Mew', 'Celebi', 'Jirachi', 'Deoxys', 'Phione', 'Manaphy', 'Darkrai',
                'Shaymin', 'Arceus', 'Victini', 'Keldeo', 'Meloetta', 'Genesect', 'Diancie', 
-               'Hoopa', 'Volcanion', 'Magearna', 'Marshadow', 'Zeraora', 'Meltan', 'Melmetal', 'Zarude')
+               'Hoopa', 'Volcanion', 'Magearna', 'Marshadow', 'Zeraora', 'Meltan', 'Melmetal', 'Zarude',
+               'Koraidon', 'Miraidon', 'Great Tusk', 'Iron Treads', 'Wo-Chien', 'Chien-Pao',
+               'Ting-Lu', 'Chi-Yu', 'Roaring Moon', 'Iron Valiant', 'Walking Wake', 'Iron Leaves',
+               'Scream Tail', 'Brute Bonnet', 'Flutter Mane', 'Slither Wing', 'Sandy Shocks',
+               'Iron Bundle', 'Iron Hands', 'Iron Jugulis', 'Iron Moth', 'Iron Thorns')
 
 # Vectors for the generations
 gen1 <- 1:151
@@ -71,7 +75,7 @@ remove_dup_name <- function(x){
   paste(unique(tolower(trimws(unlist(strsplit(x,split="(?!')[ [:punct:]]",fixed=F,perl=T))))),collapse = " ")
 }
 # vectorised version - likely more useful overall
-remove_dup_name_vect <- Vectorize(rem_dup.one, USE.NAMES = FALSE)
+remove_dup_name_vect <- Vectorize(remove_dup_name, USE.NAMES = FALSE)
 # fix names
 pokemon_full <- pokemon_full |> 
   dplyr::mutate(

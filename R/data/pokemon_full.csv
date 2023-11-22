@@ -2,43 +2,43 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/bulbasaur.png
 2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ivysaur.png
 3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/venusaur.png
-3,Venusaur Mega Venusaur,Grass,Poison,625,80,100,123,122,120,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/venusaur-mega-venusaur.png
+3,Venusaur Mega,Grass,Poison,625,80,100,123,122,120,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/venusaur-mega.png
 4,Charmander,Fire,NA,309,39,52,43,60,50,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/charmander.png
 5,Charmeleon,Fire,NA,405,58,64,58,80,65,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/charmeleon.png
 6,Charizard,Fire,Flying,534,78,84,78,109,85,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/charizard.png
-6,Charizard Mega Charizard X,Fire,Dragon,634,78,130,111,130,85,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/charizard-mega-charizard-x.png
-6,Charizard Mega Charizard Y,Fire,Flying,634,78,104,78,159,115,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/charizard-mega-charizard-y.png
+6,Charizard Mega X,Fire,Dragon,634,78,130,111,130,85,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/charizard-mega-x.png
+6,Charizard Mega Y,Fire,Flying,634,78,104,78,159,115,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/charizard-mega-y.png
 7,Squirtle,Water,NA,314,44,48,65,50,64,43,FALSE,1,https://img.pokemondb.net/sprites/home/normal/squirtle.png
 8,Wartortle,Water,NA,405,59,63,80,65,80,58,FALSE,1,https://img.pokemondb.net/sprites/home/normal/wartortle.png
 9,Blastoise,Water,NA,530,79,83,100,85,105,78,FALSE,1,https://img.pokemondb.net/sprites/home/normal/blastoise.png
-9,Blastoise Mega Blastoise,Water,NA,630,79,103,120,135,115,78,FALSE,1,https://img.pokemondb.net/sprites/home/normal/blastoise-mega-blastoise.png
+9,Blastoise Mega,Water,NA,630,79,103,120,135,115,78,FALSE,1,https://img.pokemondb.net/sprites/home/normal/blastoise-mega.png
 10,Caterpie,Bug,NA,195,45,30,35,20,20,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/caterpie.png
 11,Metapod,Bug,NA,205,50,20,55,25,25,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/metapod.png
 12,Butterfree,Bug,Flying,395,60,45,50,90,80,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/butterfree.png
 13,Weedle,Bug,Poison,195,40,35,30,20,20,50,FALSE,1,https://img.pokemondb.net/sprites/home/normal/weedle.png
 14,Kakuna,Bug,Poison,205,45,25,50,25,25,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kakuna.png
 15,Beedrill,Bug,Poison,395,65,90,40,45,80,75,FALSE,1,https://img.pokemondb.net/sprites/home/normal/beedrill.png
-15,Beedrill Mega Beedrill,Bug,Poison,495,65,150,40,15,80,145,FALSE,1,https://img.pokemondb.net/sprites/home/normal/beedrill-mega-beedrill.png
+15,Beedrill Mega,Bug,Poison,495,65,150,40,15,80,145,FALSE,1,https://img.pokemondb.net/sprites/home/normal/beedrill-mega.png
 16,Pidgey,Normal,Flying,251,40,45,40,35,35,56,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pidgey.png
 17,Pidgeotto,Normal,Flying,349,63,60,55,50,50,71,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pidgeotto.png
 18,Pidgeot,Normal,Flying,479,83,80,75,70,70,101,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pidgeot.png
-18,Pidgeot Mega Pidgeot,Normal,Flying,579,83,80,80,135,80,121,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pidgeot-mega-pidgeot.png
+18,Pidgeot Mega,Normal,Flying,579,83,80,80,135,80,121,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pidgeot-mega.png
 19,Rattata,Normal,NA,253,30,56,35,25,35,72,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rattata.png
-19,Rattata Alolan Rattata,Dark,Normal,253,30,56,35,25,35,72,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rattata-alolan-rattata.png
+19,Rattata Alolan,Dark,Normal,253,30,56,35,25,35,72,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rattata-alolan.png
 20,Raticate,Normal,NA,413,55,81,60,50,70,97,FALSE,1,https://img.pokemondb.net/sprites/home/normal/raticate.png
-20,Raticate Alolan Raticate,Dark,Normal,413,75,71,70,40,80,77,FALSE,1,https://img.pokemondb.net/sprites/home/normal/raticate-alolan-raticate.png
+20,Raticate Alolan,Dark,Normal,413,75,71,70,40,80,77,FALSE,1,https://img.pokemondb.net/sprites/home/normal/raticate-alolan.png
 21,Spearow,Normal,Flying,262,40,60,30,31,31,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/spearow.png
 22,Fearow,Normal,Flying,442,65,90,65,61,61,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/fearow.png
 23,Ekans,Poison,NA,288,35,60,44,40,54,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ekans.png
 24,Arbok,Poison,NA,448,60,95,69,65,79,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/arbok.png
 25,Pikachu,Electric,NA,320,35,55,40,50,50,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pikachu.png
-25,Pikachu Partner Pikachu,Electric,NA,430,45,80,50,75,60,120,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pikachu-partner-pikachu.png
+25,Pikachu Partner,Electric,NA,430,45,80,50,75,60,120,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pikachu-partner.png
 26,Raichu,Electric,NA,485,60,90,55,90,80,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/raichu.png
-26,Raichu Alolan Raichu,Electric,Psychic,485,60,85,50,95,85,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/raichu-alolan-raichu.png
+26,Raichu Alolan,Electric,Psychic,485,60,85,50,95,85,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/raichu-alolan.png
 27,Sandshrew,Ground,NA,300,50,75,85,20,30,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/sandshrew.png
-27,Sandshrew Alolan Sandshrew,Ice,Steel,300,50,75,90,10,35,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/sandshrew-alolan-sandshrew.png
+27,Sandshrew Alolan,Ice,Steel,300,50,75,90,10,35,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/sandshrew-alolan.png
 28,Sandslash,Ground,NA,450,75,100,110,45,55,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/sandslash.png
-28,Sandslash Alolan Sandslash,Ice,Steel,450,75,100,120,25,65,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/sandslash-alolan-sandslash.png
+28,Sandslash Alolan,Ice,Steel,450,75,100,120,25,65,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/sandslash-alolan.png
 29,Nidoran♀,Poison,NA,275,55,47,52,40,40,41,FALSE,1,https://img.pokemondb.net/sprites/home/normal/nidoran♀.png
 30,Nidorina,Poison,NA,365,70,62,67,55,55,56,FALSE,1,https://img.pokemondb.net/sprites/home/normal/nidorina.png
 31,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76,FALSE,1,https://img.pokemondb.net/sprites/home/normal/nidoqueen.png
@@ -48,9 +48,9 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 35,Clefairy,Fairy,NA,323,70,45,48,60,65,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/clefairy.png
 36,Clefable,Fairy,NA,483,95,70,73,95,90,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/clefable.png
 37,Vulpix,Fire,NA,299,38,41,40,50,65,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/vulpix.png
-37,Vulpix Alolan Vulpix,Ice,NA,299,38,41,40,50,65,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/vulpix-alolan-vulpix.png
+37,Vulpix Alolan,Ice,NA,299,38,41,40,50,65,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/vulpix-alolan.png
 38,Ninetales,Fire,NA,505,73,76,75,81,100,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ninetales.png
-38,Ninetales Alolan Ninetales,Ice,Fairy,505,73,67,75,81,100,109,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ninetales-alolan-ninetales.png
+38,Ninetales Alolan,Ice,Fairy,505,73,67,75,81,100,109,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ninetales-alolan.png
 39,Jigglypuff,Normal,Fairy,270,115,45,20,45,25,20,FALSE,1,https://img.pokemondb.net/sprites/home/normal/jigglypuff.png
 40,Wigglytuff,Normal,Fairy,435,140,70,45,85,50,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/wigglytuff.png
 41,Zubat,Poison,Flying,245,40,45,35,30,40,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/zubat.png
@@ -63,29 +63,29 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 48,Venonat,Bug,Poison,305,60,55,50,40,55,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/venonat.png
 49,Venomoth,Bug,Poison,450,70,65,60,90,75,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/venomoth.png
 50,Diglett,Ground,NA,265,10,55,25,35,45,95,FALSE,1,https://img.pokemondb.net/sprites/home/normal/diglett.png
-50,Diglett Alolan Diglett,Ground,Steel,265,10,55,30,35,45,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/diglett-alolan-diglett.png
+50,Diglett Alolan,Ground,Steel,265,10,55,30,35,45,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/diglett-alolan.png
 51,Dugtrio,Ground,NA,425,35,100,50,50,70,120,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dugtrio.png
-51,Dugtrio Alolan Dugtrio,Ground,Steel,425,35,100,60,50,70,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dugtrio-alolan-dugtrio.png
+51,Dugtrio Alolan,Ground,Steel,425,35,100,60,50,70,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dugtrio-alolan.png
 52,Meowth,Normal,NA,290,40,45,35,40,40,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/meowth.png
-52,Meowth Alolan Meowth,Dark,NA,290,40,35,35,50,40,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/meowth-alolan-meowth.png
-52,Meowth Galarian Meowth,Steel,NA,290,50,65,55,40,40,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/meowth-galarian-meowth.png
+52,Meowth Alolan,Dark,NA,290,40,35,35,50,40,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/meowth-alolan.png
+52,Meowth Galarian,Steel,NA,290,50,65,55,40,40,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/meowth-galarian.png
 53,Persian,Normal,NA,440,65,70,60,65,65,115,FALSE,1,https://img.pokemondb.net/sprites/home/normal/persian.png
-53,Persian Alolan Persian,Dark,NA,440,65,60,60,75,65,115,FALSE,1,https://img.pokemondb.net/sprites/home/normal/persian-alolan-persian.png
+53,Persian Alolan,Dark,NA,440,65,60,60,75,65,115,FALSE,1,https://img.pokemondb.net/sprites/home/normal/persian-alolan.png
 54,Psyduck,Water,NA,320,50,52,48,65,50,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/psyduck.png
 55,Golduck,Water,NA,500,80,82,78,95,80,85,FALSE,1,https://img.pokemondb.net/sprites/home/normal/golduck.png
 56,Mankey,Fighting,NA,305,40,80,35,35,45,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mankey.png
 57,Primeape,Fighting,NA,455,65,105,60,60,70,95,FALSE,1,https://img.pokemondb.net/sprites/home/normal/primeape.png
 58,Growlithe,Fire,NA,350,55,70,45,70,50,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/growlithe.png
-58,Growlithe Hisuian Growlithe,Fire,Rock,350,60,75,45,65,50,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/growlithe-hisuian-growlithe.png
+58,Growlithe Hisuian,Fire,Rock,350,60,75,45,65,50,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/growlithe-hisuian.png
 59,Arcanine,Fire,NA,555,90,110,80,100,80,95,FALSE,1,https://img.pokemondb.net/sprites/home/normal/arcanine.png
-59,Arcanine Hisuian Arcanine,Fire,Rock,555,95,115,80,95,80,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/arcanine-hisuian-arcanine.png
+59,Arcanine Hisuian,Fire,Rock,555,95,115,80,95,80,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/arcanine-hisuian.png
 60,Poliwag,Water,NA,300,40,50,40,40,40,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/poliwag.png
 61,Poliwhirl,Water,NA,385,65,65,65,50,50,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/poliwhirl.png
 62,Poliwrath,Water,Fighting,510,90,95,95,70,90,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/poliwrath.png
 63,Abra,Psychic,NA,310,25,20,15,105,55,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/abra.png
 64,Kadabra,Psychic,NA,400,40,35,30,120,70,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kadabra.png
 65,Alakazam,Psychic,NA,500,55,50,45,135,95,120,FALSE,1,https://img.pokemondb.net/sprites/home/normal/alakazam.png
-65,Alakazam Mega Alakazam,Psychic,NA,600,55,50,65,175,105,150,FALSE,1,https://img.pokemondb.net/sprites/home/normal/alakazam-mega-alakazam.png
+65,Alakazam Mega,Psychic,NA,600,55,50,65,175,105,150,FALSE,1,https://img.pokemondb.net/sprites/home/normal/alakazam-mega.png
 66,Machop,Fighting,NA,305,70,80,50,35,35,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/machop.png
 67,Machoke,Fighting,NA,405,80,100,70,50,60,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/machoke.png
 68,Machamp,Fighting,NA,505,90,130,80,65,85,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/machamp.png
@@ -95,87 +95,90 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 72,Tentacool,Water,Poison,335,40,40,35,50,100,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/tentacool.png
 73,Tentacruel,Water,Poison,515,80,70,65,80,120,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/tentacruel.png
 74,Geodude,Rock,Ground,300,40,80,100,30,30,20,FALSE,1,https://img.pokemondb.net/sprites/home/normal/geodude.png
-74,Geodude Alolan Geodude,Rock,Electric,300,40,80,100,30,30,20,FALSE,1,https://img.pokemondb.net/sprites/home/normal/geodude-alolan-geodude.png
+74,Geodude Alolan,Rock,Electric,300,40,80,100,30,30,20,FALSE,1,https://img.pokemondb.net/sprites/home/normal/geodude-alolan.png
 75,Graveler,Rock,Ground,390,55,95,115,45,45,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/graveler.png
-75,Graveler Alolan Graveler,Rock,Electric,390,55,95,115,45,45,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/graveler-alolan-graveler.png
+75,Graveler Alolan,Rock,Electric,390,55,95,115,45,45,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/graveler-alolan.png
 76,Golem,Rock,Ground,495,80,120,130,55,65,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/golem.png
-76,Golem Alolan Golem,Rock,Electric,495,80,120,130,55,65,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/golem-alolan-golem.png
+76,Golem Alolan,Rock,Electric,495,80,120,130,55,65,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/golem-alolan.png
 77,Ponyta,Fire,NA,410,50,85,55,65,65,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ponyta.png
-77,Ponyta Galarian Ponyta,Psychic,NA,410,50,85,55,65,65,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ponyta-galarian-ponyta.png
+77,Ponyta Galarian,Psychic,NA,410,50,85,55,65,65,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ponyta-galarian.png
 78,Rapidash,Fire,NA,500,65,100,70,80,80,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rapidash.png
-78,Rapidash Galarian Rapidash,Psychic,Fairy,500,65,100,70,80,80,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rapidash-galarian-rapidash.png
+78,Rapidash Galarian,Psychic,Fairy,500,65,100,70,80,80,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rapidash-galarian.png
 79,Slowpoke,Water,Psychic,315,90,65,65,40,40,15,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowpoke.png
-79,Slowpoke Galarian Slowpoke,Psychic,NA,315,90,65,65,40,40,15,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowpoke-galarian-slowpoke.png
+79,Slowpoke Galarian,Psychic,NA,315,90,65,65,40,40,15,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowpoke-galarian.png
 80,Slowbro,Water,Psychic,490,95,75,110,100,80,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowbro.png
-80,Slowbro Mega Slowbro,Water,Psychic,590,95,75,180,130,80,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowbro-mega-slowbro.png
-80,Slowbro Galarian Slowbro,Poison,Psychic,490,95,100,95,100,70,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowbro-galarian-slowbro.png
+80,Slowbro Mega,Water,Psychic,590,95,75,180,130,80,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowbro-mega.png
+80,Slowbro Galarian,Poison,Psychic,490,95,100,95,100,70,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/slowbro-galarian.png
 81,Magnemite,Electric,Steel,325,25,35,70,95,55,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/magnemite.png
 82,Magneton,Electric,Steel,465,50,60,95,120,70,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/magneton.png
 83,Farfetch'd,Normal,Flying,377,52,90,55,58,62,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/farfetch'd.png
-83,Farfetch'd Galarian Farfetch'd,Fighting,NA,377,52,95,55,58,62,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/farfetch'd-galarian-farfetch'd.png
+83,Farfetch'd Galarian,Fighting,NA,377,52,95,55,58,62,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/farfetch'd-galarian.png
 84,Doduo,Normal,Flying,310,35,85,45,35,35,75,FALSE,1,https://img.pokemondb.net/sprites/home/normal/doduo.png
 85,Dodrio,Normal,Flying,470,60,110,70,60,60,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dodrio.png
 86,Seel,Water,NA,325,65,45,55,45,70,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/seel.png
 87,Dewgong,Water,Ice,475,90,70,80,70,95,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dewgong.png
 88,Grimer,Poison,NA,325,80,80,50,40,50,25,FALSE,1,https://img.pokemondb.net/sprites/home/normal/grimer.png
-88,Grimer Alolan Grimer,Poison,Dark,325,80,80,50,40,50,25,FALSE,1,https://img.pokemondb.net/sprites/home/normal/grimer-alolan-grimer.png
+88,Grimer Alolan,Poison,Dark,325,80,80,50,40,50,25,FALSE,1,https://img.pokemondb.net/sprites/home/normal/grimer-alolan.png
 89,Muk,Poison,NA,500,105,105,75,65,100,50,FALSE,1,https://img.pokemondb.net/sprites/home/normal/muk.png
-89,Muk Alolan Muk,Poison,Dark,500,105,105,75,65,100,50,FALSE,1,https://img.pokemondb.net/sprites/home/normal/muk-alolan-muk.png
+89,Muk Alolan,Poison,Dark,500,105,105,75,65,100,50,FALSE,1,https://img.pokemondb.net/sprites/home/normal/muk-alolan.png
 90,Shellder,Water,NA,305,30,65,100,45,25,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/shellder.png
 91,Cloyster,Water,Ice,525,50,95,180,85,45,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/cloyster.png
 92,Gastly,Ghost,Poison,310,30,35,30,100,35,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/gastly.png
 93,Haunter,Ghost,Poison,405,45,50,45,115,55,95,FALSE,1,https://img.pokemondb.net/sprites/home/normal/haunter.png
 94,Gengar,Ghost,Poison,500,60,65,60,130,75,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/gengar.png
-94,Gengar Mega Gengar,Ghost,Poison,600,60,65,80,170,95,130,FALSE,1,https://img.pokemondb.net/sprites/home/normal/gengar-mega-gengar.png
+94,Gengar Mega,Ghost,Poison,600,60,65,80,170,95,130,FALSE,1,https://img.pokemondb.net/sprites/home/normal/gengar-mega.png
 95,Onix,Rock,Ground,385,35,45,160,30,45,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/onix.png
 96,Drowzee,Psychic,NA,328,60,48,45,43,90,42,FALSE,1,https://img.pokemondb.net/sprites/home/normal/drowzee.png
 97,Hypno,Psychic,NA,483,85,73,70,73,115,67,FALSE,1,https://img.pokemondb.net/sprites/home/normal/hypno.png
 98,Krabby,Water,NA,325,30,105,90,25,25,50,FALSE,1,https://img.pokemondb.net/sprites/home/normal/krabby.png
 99,Kingler,Water,NA,475,55,130,115,50,50,75,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kingler.png
 100,Voltorb,Electric,NA,330,40,30,50,55,55,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/voltorb.png
-100,Voltorb Hisuian Voltorb,Electric,Grass,330,40,30,50,55,55,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/voltorb-hisuian-voltorb.png
+100,Voltorb Hisuian,Electric,Grass,330,40,30,50,55,55,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/voltorb-hisuian.png
 101,Electrode,Electric,NA,490,60,50,70,80,80,150,FALSE,1,https://img.pokemondb.net/sprites/home/normal/electrode.png
-101,Electrode Hisuian Electrode,Electric,Grass,490,60,50,70,80,80,150,FALSE,1,https://img.pokemondb.net/sprites/home/normal/electrode-hisuian-electrode.png
+101,Electrode Hisuian,Electric,Grass,490,60,50,70,80,80,150,FALSE,1,https://img.pokemondb.net/sprites/home/normal/electrode-hisuian.png
 102,Exeggcute,Grass,Psychic,325,60,40,80,60,45,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/exeggcute.png
 103,Exeggutor,Grass,Psychic,530,95,95,85,125,75,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/exeggutor.png
-103,Exeggutor Alolan Exeggutor,Grass,Dragon,530,95,105,85,125,75,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/exeggutor-alolan-exeggutor.png
+103,Exeggutor Alolan,Grass,Dragon,530,95,105,85,125,75,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/exeggutor-alolan.png
 104,Cubone,Ground,NA,320,50,50,95,40,50,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/cubone.png
 105,Marowak,Ground,NA,425,60,80,110,50,80,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/marowak.png
-105,Marowak Alolan Marowak,Fire,Ghost,425,60,80,110,50,80,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/marowak-alolan-marowak.png
+105,Marowak Alolan,Fire,Ghost,425,60,80,110,50,80,45,FALSE,1,https://img.pokemondb.net/sprites/home/normal/marowak-alolan.png
 106,Hitmonlee,Fighting,NA,455,50,120,53,35,110,87,FALSE,1,https://img.pokemondb.net/sprites/home/normal/hitmonlee.png
 107,Hitmonchan,Fighting,NA,455,50,105,79,35,110,76,FALSE,1,https://img.pokemondb.net/sprites/home/normal/hitmonchan.png
 108,Lickitung,Normal,NA,385,90,55,75,60,75,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/lickitung.png
 109,Koffing,Poison,NA,340,40,65,95,60,45,35,FALSE,1,https://img.pokemondb.net/sprites/home/normal/koffing.png
 110,Weezing,Poison,NA,490,65,90,120,85,70,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/weezing.png
-110,Weezing Galarian Weezing,Poison,Fairy,490,65,90,120,85,70,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/weezing-galarian-weezing.png
+110,Weezing Galarian,Poison,Fairy,490,65,90,120,85,70,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/weezing-galarian.png
 111,Rhyhorn,Ground,Rock,345,80,85,95,30,30,25,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rhyhorn.png
 112,Rhydon,Ground,Rock,485,105,130,120,45,45,40,FALSE,1,https://img.pokemondb.net/sprites/home/normal/rhydon.png
 113,Chansey,Normal,NA,450,250,5,5,35,105,50,FALSE,1,https://img.pokemondb.net/sprites/home/normal/chansey.png
 114,Tangela,Grass,NA,435,65,55,115,100,40,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/tangela.png
 115,Kangaskhan,Normal,NA,490,105,95,80,40,80,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kangaskhan.png
-115,Kangaskhan Mega Kangaskhan,Normal,NA,590,105,125,100,60,100,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kangaskhan-mega-kangaskhan.png
+115,Kangaskhan Mega,Normal,NA,590,105,125,100,60,100,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kangaskhan-mega.png
 116,Horsea,Water,NA,295,30,40,70,70,25,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/horsea.png
 117,Seadra,Water,NA,440,55,65,95,95,45,85,FALSE,1,https://img.pokemondb.net/sprites/home/normal/seadra.png
 118,Goldeen,Water,NA,320,45,67,60,35,50,63,FALSE,1,https://img.pokemondb.net/sprites/home/normal/goldeen.png
 119,Seaking,Water,NA,450,80,92,65,65,80,68,FALSE,1,https://img.pokemondb.net/sprites/home/normal/seaking.png
 120,Staryu,Water,NA,340,30,45,55,70,55,85,FALSE,1,https://img.pokemondb.net/sprites/home/normal/staryu.png
 121,Starmie,Water,Psychic,520,60,75,85,100,85,115,FALSE,1,https://img.pokemondb.net/sprites/home/normal/starmie.png
-122,Mr. Mime,Psychic,Fairy,460,40,45,65,100,120,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mr.-mime.png
-122,Mr. Mime Galarian Mr. Mime,Ice,Psychic,460,50,65,65,90,90,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mr.-mime-galarian-mr.-mime.png
+122,Mr  Mime,Psychic,Fairy,460,40,45,65,100,120,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mr--mime.png
+122,Mr  Mime Galarian,Ice,Psychic,460,50,65,65,90,90,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mr--mime-galarian.png
 123,Scyther,Bug,Flying,500,70,110,80,55,80,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/scyther.png
 124,Jynx,Ice,Psychic,455,65,50,35,115,95,95,FALSE,1,https://img.pokemondb.net/sprites/home/normal/jynx.png
 125,Electabuzz,Electric,NA,490,65,83,57,95,85,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/electabuzz.png
 126,Magmar,Fire,NA,495,65,95,57,100,85,93,FALSE,1,https://img.pokemondb.net/sprites/home/normal/magmar.png
 127,Pinsir,Bug,NA,500,65,125,100,55,70,85,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pinsir.png
-127,Pinsir Mega Pinsir,Bug,Flying,600,65,155,120,65,90,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pinsir-mega-pinsir.png
+127,Pinsir Mega,Bug,Flying,600,65,155,120,65,90,105,FALSE,1,https://img.pokemondb.net/sprites/home/normal/pinsir-mega.png
 128,Tauros,Normal,NA,490,75,100,95,40,70,110,FALSE,1,https://img.pokemondb.net/sprites/home/normal/tauros.png
+128,Tauros Combat Breed,Fighting,NA,490,75,110,105,30,70,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/tauros-combat-breed.png
+128,Tauros Blaze Breed,Fighting,Fire,490,75,110,105,30,70,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/tauros-blaze-breed.png
+128,Tauros Aqua Breed,Fighting,Water,490,75,110,105,30,70,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/tauros-aqua-breed.png
 129,Magikarp,Water,NA,200,20,10,55,15,20,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/magikarp.png
 130,Gyarados,Water,Flying,540,95,125,79,60,100,81,FALSE,1,https://img.pokemondb.net/sprites/home/normal/gyarados.png
-130,Gyarados Mega Gyarados,Water,Dark,640,95,155,109,70,130,81,FALSE,1,https://img.pokemondb.net/sprites/home/normal/gyarados-mega-gyarados.png
+130,Gyarados Mega,Water,Dark,640,95,155,109,70,130,81,FALSE,1,https://img.pokemondb.net/sprites/home/normal/gyarados-mega.png
 131,Lapras,Water,Ice,535,130,85,80,85,95,60,FALSE,1,https://img.pokemondb.net/sprites/home/normal/lapras.png
 132,Ditto,Normal,NA,288,48,48,48,48,48,48,FALSE,1,https://img.pokemondb.net/sprites/home/normal/ditto.png
 133,Eevee,Normal,NA,325,55,55,50,45,65,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/eevee.png
-133,Eevee Partner Eevee,Normal,NA,435,65,75,70,65,85,75,FALSE,1,https://img.pokemondb.net/sprites/home/normal/eevee-partner-eevee.png
+133,Eevee Partner,Normal,NA,435,65,75,70,65,85,75,FALSE,1,https://img.pokemondb.net/sprites/home/normal/eevee-partner.png
 134,Vaporeon,Water,NA,525,130,65,60,110,95,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/vaporeon.png
 135,Jolteon,Electric,NA,525,65,65,60,110,95,130,FALSE,1,https://img.pokemondb.net/sprites/home/normal/jolteon.png
 136,Flareon,Fire,NA,525,65,130,60,95,110,65,FALSE,1,https://img.pokemondb.net/sprites/home/normal/flareon.png
@@ -185,20 +188,20 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 140,Kabuto,Rock,Water,355,30,80,90,55,45,55,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kabuto.png
 141,Kabutops,Rock,Water,495,60,115,105,65,70,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/kabutops.png
 142,Aerodactyl,Rock,Flying,515,80,105,65,60,75,130,FALSE,1,https://img.pokemondb.net/sprites/home/normal/aerodactyl.png
-142,Aerodactyl Mega Aerodactyl,Rock,Flying,615,80,135,85,70,95,150,FALSE,1,https://img.pokemondb.net/sprites/home/normal/aerodactyl-mega-aerodactyl.png
+142,Aerodactyl Mega,Rock,Flying,615,80,135,85,70,95,150,FALSE,1,https://img.pokemondb.net/sprites/home/normal/aerodactyl-mega.png
 143,Snorlax,Normal,NA,540,160,110,65,65,110,30,FALSE,1,https://img.pokemondb.net/sprites/home/normal/snorlax.png
 144,Articuno,Ice,Flying,580,90,85,100,95,125,85,TRUE,1,https://img.pokemondb.net/sprites/home/normal/articuno.png
-144,Articuno Galarian Articuno,Psychic,Flying,580,90,85,85,125,100,95,FALSE,1,https://img.pokemondb.net/sprites/home/normal/articuno-galarian-articuno.png
+144,Articuno Galarian,Psychic,Flying,580,90,85,85,125,100,95,FALSE,1,https://img.pokemondb.net/sprites/home/normal/articuno-galarian.png
 145,Zapdos,Electric,Flying,580,90,90,85,125,90,100,TRUE,1,https://img.pokemondb.net/sprites/home/normal/zapdos.png
-145,Zapdos Galarian Zapdos,Fighting,Flying,580,90,125,90,85,90,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/zapdos-galarian-zapdos.png
+145,Zapdos Galarian,Fighting,Flying,580,90,125,90,85,90,100,FALSE,1,https://img.pokemondb.net/sprites/home/normal/zapdos-galarian.png
 146,Moltres,Fire,Flying,580,90,100,90,125,85,90,TRUE,1,https://img.pokemondb.net/sprites/home/normal/moltres.png
-146,Moltres Galarian Moltres,Dark,Flying,580,90,85,90,100,125,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/moltres-galarian-moltres.png
+146,Moltres Galarian,Dark,Flying,580,90,85,90,100,125,90,FALSE,1,https://img.pokemondb.net/sprites/home/normal/moltres-galarian.png
 147,Dratini,Dragon,NA,300,41,64,45,50,50,50,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dratini.png
 148,Dragonair,Dragon,NA,420,61,84,65,70,70,70,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dragonair.png
 149,Dragonite,Dragon,Flying,600,91,134,95,100,100,80,FALSE,1,https://img.pokemondb.net/sprites/home/normal/dragonite.png
 150,Mewtwo,Psychic,NA,680,106,110,90,154,90,130,TRUE,1,https://img.pokemondb.net/sprites/home/normal/mewtwo.png
-150,Mewtwo Mega Mewtwo X,Psychic,Fighting,780,106,190,100,154,100,130,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mewtwo-mega-mewtwo-x.png
-150,Mewtwo Mega Mewtwo Y,Psychic,NA,780,106,150,70,194,120,140,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mewtwo-mega-mewtwo-y.png
+150,Mewtwo Mega X,Psychic,Fighting,780,106,190,100,154,100,130,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mewtwo-mega-x.png
+150,Mewtwo Mega Y,Psychic,NA,780,106,150,70,194,120,140,FALSE,1,https://img.pokemondb.net/sprites/home/normal/mewtwo-mega-y.png
 151,Mew,Psychic,NA,600,100,100,100,100,100,100,TRUE,1,https://img.pokemondb.net/sprites/home/normal/mew.png
 152,Chikorita,Grass,NA,318,45,49,65,49,65,45,FALSE,2,https://img.pokemondb.net/sprites/home/normal/chikorita.png
 153,Bayleef,Grass,NA,405,60,62,80,63,80,60,FALSE,2,https://img.pokemondb.net/sprites/home/normal/bayleef.png
@@ -206,7 +209,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 155,Cyndaquil,Fire,NA,309,39,52,43,60,50,65,FALSE,2,https://img.pokemondb.net/sprites/home/normal/cyndaquil.png
 156,Quilava,Fire,NA,405,58,64,58,80,65,80,FALSE,2,https://img.pokemondb.net/sprites/home/normal/quilava.png
 157,Typhlosion,Fire,NA,534,78,84,78,109,85,100,FALSE,2,https://img.pokemondb.net/sprites/home/normal/typhlosion.png
-157,Typhlosion Hisuian Typhlosion,Fire,Ghost,534,73,84,78,119,85,95,FALSE,2,https://img.pokemondb.net/sprites/home/normal/typhlosion-hisuian-typhlosion.png
+157,Typhlosion Hisuian,Fire,Ghost,534,73,84,78,119,85,95,FALSE,2,https://img.pokemondb.net/sprites/home/normal/typhlosion-hisuian.png
 158,Totodile,Water,NA,314,50,65,64,44,48,43,FALSE,2,https://img.pokemondb.net/sprites/home/normal/totodile.png
 159,Croconaw,Water,NA,405,65,80,80,59,63,58,FALSE,2,https://img.pokemondb.net/sprites/home/normal/croconaw.png
 160,Feraligatr,Water,NA,530,85,105,100,79,83,78,FALSE,2,https://img.pokemondb.net/sprites/home/normal/feraligatr.png
@@ -231,7 +234,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 179,Mareep,Electric,NA,280,55,40,40,65,45,35,FALSE,2,https://img.pokemondb.net/sprites/home/normal/mareep.png
 180,Flaaffy,Electric,NA,365,70,55,55,80,60,45,FALSE,2,https://img.pokemondb.net/sprites/home/normal/flaaffy.png
 181,Ampharos,Electric,NA,510,90,75,85,115,90,55,FALSE,2,https://img.pokemondb.net/sprites/home/normal/ampharos.png
-181,Ampharos Mega Ampharos,Electric,Dragon,610,90,95,105,165,110,45,FALSE,2,https://img.pokemondb.net/sprites/home/normal/ampharos-mega-ampharos.png
+181,Ampharos Mega,Electric,Dragon,610,90,95,105,165,110,45,FALSE,2,https://img.pokemondb.net/sprites/home/normal/ampharos-mega.png
 182,Bellossom,Grass,NA,490,75,80,95,90,100,50,FALSE,2,https://img.pokemondb.net/sprites/home/normal/bellossom.png
 183,Marill,Water,Fairy,250,70,20,50,20,50,40,FALSE,2,https://img.pokemondb.net/sprites/home/normal/marill.png
 184,Azumarill,Water,Fairy,420,100,50,80,60,80,50,FALSE,2,https://img.pokemondb.net/sprites/home/normal/azumarill.png
@@ -245,12 +248,13 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 192,Sunflora,Grass,NA,425,75,75,55,105,85,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/sunflora.png
 193,Yanma,Bug,Flying,390,65,65,45,75,45,95,FALSE,2,https://img.pokemondb.net/sprites/home/normal/yanma.png
 194,Wooper,Water,Ground,210,55,45,45,25,25,15,FALSE,2,https://img.pokemondb.net/sprites/home/normal/wooper.png
+194,Wooper Paldean,Poison,Ground,210,55,45,45,25,25,15,FALSE,2,https://img.pokemondb.net/sprites/home/normal/wooper-paldean.png
 195,Quagsire,Water,Ground,430,95,85,85,65,65,35,FALSE,2,https://img.pokemondb.net/sprites/home/normal/quagsire.png
 196,Espeon,Psychic,NA,525,65,65,60,130,95,110,FALSE,2,https://img.pokemondb.net/sprites/home/normal/espeon.png
 197,Umbreon,Dark,NA,525,95,65,110,60,130,65,FALSE,2,https://img.pokemondb.net/sprites/home/normal/umbreon.png
 198,Murkrow,Dark,Flying,405,60,85,42,85,42,91,FALSE,2,https://img.pokemondb.net/sprites/home/normal/murkrow.png
 199,Slowking,Water,Psychic,490,95,75,80,100,110,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/slowking.png
-199,Slowking Galarian Slowking,Poison,Psychic,490,95,65,80,110,110,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/slowking-galarian-slowking.png
+199,Slowking Galarian,Poison,Psychic,490,95,65,80,110,110,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/slowking-galarian.png
 200,Misdreavus,Ghost,NA,435,60,60,60,85,85,85,FALSE,2,https://img.pokemondb.net/sprites/home/normal/misdreavus.png
 201,Unown,Psychic,NA,336,48,72,48,72,48,48,FALSE,2,https://img.pokemondb.net/sprites/home/normal/unown.png
 202,Wobbuffet,Psychic,NA,405,190,33,58,33,58,33,FALSE,2,https://img.pokemondb.net/sprites/home/normal/wobbuffet.png
@@ -260,18 +264,18 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 206,Dunsparce,Normal,NA,415,100,70,70,65,65,45,FALSE,2,https://img.pokemondb.net/sprites/home/normal/dunsparce.png
 207,Gligar,Ground,Flying,430,65,75,105,35,65,85,FALSE,2,https://img.pokemondb.net/sprites/home/normal/gligar.png
 208,Steelix,Steel,Ground,510,75,85,200,55,65,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/steelix.png
-208,Steelix Mega Steelix,Steel,Ground,610,75,125,230,55,95,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/steelix-mega-steelix.png
+208,Steelix Mega,Steel,Ground,610,75,125,230,55,95,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/steelix-mega.png
 209,Snubbull,Fairy,NA,300,60,80,50,40,40,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/snubbull.png
 210,Granbull,Fairy,NA,450,90,120,75,60,60,45,FALSE,2,https://img.pokemondb.net/sprites/home/normal/granbull.png
 211,Qwilfish,Water,Poison,440,65,95,85,55,55,85,FALSE,2,https://img.pokemondb.net/sprites/home/normal/qwilfish.png
-211,Qwilfish Hisuian Qwilfish,Dark,Poison,440,65,95,85,55,55,85,FALSE,2,https://img.pokemondb.net/sprites/home/normal/qwilfish-hisuian-qwilfish.png
+211,Qwilfish Hisuian,Dark,Poison,440,65,95,85,55,55,85,FALSE,2,https://img.pokemondb.net/sprites/home/normal/qwilfish-hisuian.png
 212,Scizor,Bug,Steel,500,70,130,100,55,80,65,FALSE,2,https://img.pokemondb.net/sprites/home/normal/scizor.png
-212,Scizor Mega Scizor,Bug,Steel,600,70,150,140,65,100,75,FALSE,2,https://img.pokemondb.net/sprites/home/normal/scizor-mega-scizor.png
+212,Scizor Mega,Bug,Steel,600,70,150,140,65,100,75,FALSE,2,https://img.pokemondb.net/sprites/home/normal/scizor-mega.png
 213,Shuckle,Bug,Rock,505,20,10,230,10,230,5,FALSE,2,https://img.pokemondb.net/sprites/home/normal/shuckle.png
 214,Heracross,Bug,Fighting,500,80,125,75,40,95,85,FALSE,2,https://img.pokemondb.net/sprites/home/normal/heracross.png
-214,Heracross Mega Heracross,Bug,Fighting,600,80,185,115,40,105,75,FALSE,2,https://img.pokemondb.net/sprites/home/normal/heracross-mega-heracross.png
+214,Heracross Mega,Bug,Fighting,600,80,185,115,40,105,75,FALSE,2,https://img.pokemondb.net/sprites/home/normal/heracross-mega.png
 215,Sneasel,Dark,Ice,430,55,95,55,35,75,115,FALSE,2,https://img.pokemondb.net/sprites/home/normal/sneasel.png
-215,Sneasel Hisuian Sneasel,Poison,Fighting,430,55,95,55,35,75,115,FALSE,2,https://img.pokemondb.net/sprites/home/normal/sneasel-hisuian-sneasel.png
+215,Sneasel Hisuian,Fighting,Poison,430,55,95,55,35,75,115,FALSE,2,https://img.pokemondb.net/sprites/home/normal/sneasel-hisuian.png
 216,Teddiursa,Normal,NA,330,60,80,50,50,50,40,FALSE,2,https://img.pokemondb.net/sprites/home/normal/teddiursa.png
 217,Ursaring,Normal,NA,500,90,130,75,75,75,55,FALSE,2,https://img.pokemondb.net/sprites/home/normal/ursaring.png
 218,Slugma,Fire,NA,250,40,40,40,70,40,20,FALSE,2,https://img.pokemondb.net/sprites/home/normal/slugma.png
@@ -279,7 +283,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 220,Swinub,Ice,Ground,250,50,50,40,30,30,50,FALSE,2,https://img.pokemondb.net/sprites/home/normal/swinub.png
 221,Piloswine,Ice,Ground,450,100,100,80,60,60,50,FALSE,2,https://img.pokemondb.net/sprites/home/normal/piloswine.png
 222,Corsola,Water,Rock,410,65,55,95,65,95,35,FALSE,2,https://img.pokemondb.net/sprites/home/normal/corsola.png
-222,Corsola Galarian Corsola,Ghost,NA,410,60,55,100,65,100,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/corsola-galarian-corsola.png
+222,Corsola Galarian,Ghost,NA,410,60,55,100,65,100,30,FALSE,2,https://img.pokemondb.net/sprites/home/normal/corsola-galarian.png
 223,Remoraid,Water,NA,300,35,65,35,65,35,65,FALSE,2,https://img.pokemondb.net/sprites/home/normal/remoraid.png
 224,Octillery,Water,NA,480,75,105,75,105,75,45,FALSE,2,https://img.pokemondb.net/sprites/home/normal/octillery.png
 225,Delibird,Ice,Flying,330,45,55,45,65,45,75,FALSE,2,https://img.pokemondb.net/sprites/home/normal/delibird.png
@@ -287,7 +291,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 227,Skarmory,Steel,Flying,465,65,80,140,40,70,70,FALSE,2,https://img.pokemondb.net/sprites/home/normal/skarmory.png
 228,Houndour,Dark,Fire,330,45,60,30,80,50,65,FALSE,2,https://img.pokemondb.net/sprites/home/normal/houndour.png
 229,Houndoom,Dark,Fire,500,75,90,50,110,80,95,FALSE,2,https://img.pokemondb.net/sprites/home/normal/houndoom.png
-229,Houndoom Mega Houndoom,Dark,Fire,600,75,90,90,140,90,115,FALSE,2,https://img.pokemondb.net/sprites/home/normal/houndoom-mega-houndoom.png
+229,Houndoom Mega,Dark,Fire,600,75,90,90,140,90,115,FALSE,2,https://img.pokemondb.net/sprites/home/normal/houndoom-mega.png
 230,Kingdra,Water,Dragon,540,75,95,95,95,95,85,FALSE,2,https://img.pokemondb.net/sprites/home/normal/kingdra.png
 231,Phanpy,Ground,NA,330,90,60,60,40,40,40,FALSE,2,https://img.pokemondb.net/sprites/home/normal/phanpy.png
 232,Donphan,Ground,NA,500,90,120,120,60,60,50,FALSE,2,https://img.pokemondb.net/sprites/home/normal/donphan.png
@@ -307,28 +311,28 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 246,Larvitar,Rock,Ground,300,50,64,50,45,50,41,FALSE,2,https://img.pokemondb.net/sprites/home/normal/larvitar.png
 247,Pupitar,Rock,Ground,410,70,84,70,65,70,51,FALSE,2,https://img.pokemondb.net/sprites/home/normal/pupitar.png
 248,Tyranitar,Rock,Dark,600,100,134,110,95,100,61,FALSE,2,https://img.pokemondb.net/sprites/home/normal/tyranitar.png
-248,Tyranitar Mega Tyranitar,Rock,Dark,700,100,164,150,95,120,71,FALSE,2,https://img.pokemondb.net/sprites/home/normal/tyranitar-mega-tyranitar.png
+248,Tyranitar Mega,Rock,Dark,700,100,164,150,95,120,71,FALSE,2,https://img.pokemondb.net/sprites/home/normal/tyranitar-mega.png
 249,Lugia,Psychic,Flying,680,106,90,130,90,154,110,TRUE,2,https://img.pokemondb.net/sprites/home/normal/lugia.png
-250,Ho-oh,Fire,Flying,680,106,130,90,110,154,90,FALSE,2,https://img.pokemondb.net/sprites/home/normal/ho-oh.png
+250,Ho Oh,Fire,Flying,680,106,130,90,110,154,90,FALSE,2,https://img.pokemondb.net/sprites/home/normal/ho-oh.png
 251,Celebi,Psychic,Grass,600,100,100,100,100,100,100,TRUE,2,https://img.pokemondb.net/sprites/home/normal/celebi.png
 252,Treecko,Grass,NA,310,40,45,35,65,55,70,FALSE,3,https://img.pokemondb.net/sprites/home/normal/treecko.png
 253,Grovyle,Grass,NA,405,50,65,45,85,65,95,FALSE,3,https://img.pokemondb.net/sprites/home/normal/grovyle.png
 254,Sceptile,Grass,NA,530,70,85,65,105,85,120,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sceptile.png
-254,Sceptile Mega Sceptile,Grass,Dragon,630,70,110,75,145,85,145,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sceptile-mega-sceptile.png
+254,Sceptile Mega,Grass,Dragon,630,70,110,75,145,85,145,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sceptile-mega.png
 255,Torchic,Fire,NA,310,45,60,40,70,50,45,FALSE,3,https://img.pokemondb.net/sprites/home/normal/torchic.png
 256,Combusken,Fire,Fighting,405,60,85,60,85,60,55,FALSE,3,https://img.pokemondb.net/sprites/home/normal/combusken.png
 257,Blaziken,Fire,Fighting,530,80,120,70,110,70,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/blaziken.png
-257,Blaziken Mega Blaziken,Fire,Fighting,630,80,160,80,130,80,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/blaziken-mega-blaziken.png
+257,Blaziken Mega,Fire,Fighting,630,80,160,80,130,80,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/blaziken-mega.png
 258,Mudkip,Water,NA,310,50,70,50,50,50,40,FALSE,3,https://img.pokemondb.net/sprites/home/normal/mudkip.png
 259,Marshtomp,Water,Ground,405,70,85,70,60,70,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/marshtomp.png
 260,Swampert,Water,Ground,535,100,110,90,85,90,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/swampert.png
-260,Swampert Mega Swampert,Water,Ground,635,100,150,110,95,110,70,FALSE,3,https://img.pokemondb.net/sprites/home/normal/swampert-mega-swampert.png
+260,Swampert Mega,Water,Ground,635,100,150,110,95,110,70,FALSE,3,https://img.pokemondb.net/sprites/home/normal/swampert-mega.png
 261,Poochyena,Dark,NA,220,35,55,35,30,30,35,FALSE,3,https://img.pokemondb.net/sprites/home/normal/poochyena.png
 262,Mightyena,Dark,NA,420,70,90,70,60,60,70,FALSE,3,https://img.pokemondb.net/sprites/home/normal/mightyena.png
 263,Zigzagoon,Normal,NA,240,38,30,41,30,41,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/zigzagoon.png
-263,Zigzagoon Galarian Zigzagoon,Dark,Normal,240,38,30,41,30,41,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/zigzagoon-galarian-zigzagoon.png
+263,Zigzagoon Galarian,Dark,Normal,240,38,30,41,30,41,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/zigzagoon-galarian.png
 264,Linoone,Normal,NA,420,78,70,61,50,61,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/linoone.png
-264,Linoone Galarian Linoone,Dark,Normal,420,78,70,61,50,61,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/linoone-galarian-linoone.png
+264,Linoone Galarian,Dark,Normal,420,78,70,61,50,61,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/linoone-galarian.png
 265,Wurmple,Bug,NA,195,45,45,35,20,30,20,FALSE,3,https://img.pokemondb.net/sprites/home/normal/wurmple.png
 266,Silcoon,Bug,NA,205,50,35,55,25,25,15,FALSE,3,https://img.pokemondb.net/sprites/home/normal/silcoon.png
 267,Beautifly,Bug,Flying,395,60,70,50,100,50,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/beautifly.png
@@ -347,7 +351,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 280,Ralts,Psychic,Fairy,198,28,25,25,45,35,40,FALSE,3,https://img.pokemondb.net/sprites/home/normal/ralts.png
 281,Kirlia,Psychic,Fairy,278,38,35,35,65,55,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/kirlia.png
 282,Gardevoir,Psychic,Fairy,518,68,65,65,125,115,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/gardevoir.png
-282,Gardevoir Mega Gardevoir,Psychic,Fairy,618,68,85,65,165,135,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/gardevoir-mega-gardevoir.png
+282,Gardevoir Mega,Psychic,Fairy,618,68,85,65,165,135,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/gardevoir-mega.png
 283,Surskit,Bug,Water,269,40,30,32,50,52,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/surskit.png
 284,Masquerain,Bug,Flying,454,70,60,62,100,82,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/masquerain.png
 285,Shroomish,Grass,NA,295,60,40,60,40,60,35,FALSE,3,https://img.pokemondb.net/sprites/home/normal/shroomish.png
@@ -368,19 +372,19 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 300,Skitty,Normal,NA,260,50,45,45,35,35,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/skitty.png
 301,Delcatty,Normal,NA,400,70,65,65,55,55,90,FALSE,3,https://img.pokemondb.net/sprites/home/normal/delcatty.png
 302,Sableye,Dark,Ghost,380,50,75,75,65,65,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sableye.png
-302,Sableye Mega Sableye,Dark,Ghost,480,50,85,125,85,115,20,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sableye-mega-sableye.png
+302,Sableye Mega,Dark,Ghost,480,50,85,125,85,115,20,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sableye-mega.png
 303,Mawile,Steel,Fairy,380,50,85,85,55,55,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/mawile.png
-303,Mawile Mega Mawile,Steel,Fairy,480,50,105,125,55,95,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/mawile-mega-mawile.png
+303,Mawile Mega,Steel,Fairy,480,50,105,125,55,95,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/mawile-mega.png
 304,Aron,Steel,Rock,330,50,70,100,40,40,30,FALSE,3,https://img.pokemondb.net/sprites/home/normal/aron.png
 305,Lairon,Steel,Rock,430,60,90,140,50,50,40,FALSE,3,https://img.pokemondb.net/sprites/home/normal/lairon.png
 306,Aggron,Steel,Rock,530,70,110,180,60,60,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/aggron.png
-306,Aggron Mega Aggron,Steel,NA,630,70,140,230,60,80,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/aggron-mega-aggron.png
+306,Aggron Mega,Steel,NA,630,70,140,230,60,80,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/aggron-mega.png
 307,Meditite,Fighting,Psychic,280,30,40,55,40,55,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/meditite.png
 308,Medicham,Fighting,Psychic,410,60,60,75,60,75,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/medicham.png
-308,Medicham Mega Medicham,Fighting,Psychic,510,60,100,85,80,85,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/medicham-mega-medicham.png
+308,Medicham Mega,Fighting,Psychic,510,60,100,85,80,85,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/medicham-mega.png
 309,Electrike,Electric,NA,295,40,45,40,65,40,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/electrike.png
 310,Manectric,Electric,NA,475,70,75,60,105,60,105,FALSE,3,https://img.pokemondb.net/sprites/home/normal/manectric.png
-310,Manectric Mega Manectric,Electric,NA,575,70,75,80,135,80,135,FALSE,3,https://img.pokemondb.net/sprites/home/normal/manectric-mega-manectric.png
+310,Manectric Mega,Electric,NA,575,70,75,80,135,80,135,FALSE,3,https://img.pokemondb.net/sprites/home/normal/manectric-mega.png
 311,Plusle,Electric,NA,405,60,50,40,85,75,95,FALSE,3,https://img.pokemondb.net/sprites/home/normal/plusle.png
 312,Minun,Electric,NA,405,60,40,50,75,85,95,FALSE,3,https://img.pokemondb.net/sprites/home/normal/minun.png
 313,Volbeat,Bug,NA,430,65,73,75,47,85,85,FALSE,3,https://img.pokemondb.net/sprites/home/normal/volbeat.png
@@ -390,12 +394,12 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 317,Swalot,Poison,NA,467,100,73,83,73,83,55,FALSE,3,https://img.pokemondb.net/sprites/home/normal/swalot.png
 318,Carvanha,Water,Dark,305,45,90,20,65,20,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/carvanha.png
 319,Sharpedo,Water,Dark,460,70,120,40,95,40,95,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sharpedo.png
-319,Sharpedo Mega Sharpedo,Water,Dark,560,70,140,70,110,65,105,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sharpedo-mega-sharpedo.png
+319,Sharpedo Mega,Water,Dark,560,70,140,70,110,65,105,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sharpedo-mega.png
 320,Wailmer,Water,NA,400,130,70,35,70,35,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/wailmer.png
 321,Wailord,Water,NA,500,170,90,45,90,45,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/wailord.png
 322,Numel,Fire,Ground,305,60,60,40,65,45,35,FALSE,3,https://img.pokemondb.net/sprites/home/normal/numel.png
 323,Camerupt,Fire,Ground,460,70,100,70,105,75,40,FALSE,3,https://img.pokemondb.net/sprites/home/normal/camerupt.png
-323,Camerupt Mega Camerupt,Fire,Ground,560,70,120,100,145,105,20,FALSE,3,https://img.pokemondb.net/sprites/home/normal/camerupt-mega-camerupt.png
+323,Camerupt Mega,Fire,Ground,560,70,120,100,145,105,20,FALSE,3,https://img.pokemondb.net/sprites/home/normal/camerupt-mega.png
 324,Torkoal,Fire,NA,470,70,85,140,85,70,20,FALSE,3,https://img.pokemondb.net/sprites/home/normal/torkoal.png
 325,Spoink,Psychic,NA,330,60,25,35,70,80,60,FALSE,3,https://img.pokemondb.net/sprites/home/normal/spoink.png
 326,Grumpig,Psychic,NA,470,80,45,65,90,110,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/grumpig.png
@@ -407,7 +411,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 332,Cacturne,Grass,Dark,475,70,115,60,115,60,55,FALSE,3,https://img.pokemondb.net/sprites/home/normal/cacturne.png
 333,Swablu,Normal,Flying,310,45,40,60,40,75,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/swablu.png
 334,Altaria,Dragon,Flying,490,75,70,90,70,105,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/altaria.png
-334,Altaria Mega Altaria,Dragon,Fairy,590,75,110,110,110,105,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/altaria-mega-altaria.png
+334,Altaria Mega,Dragon,Fairy,590,75,110,110,110,105,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/altaria-mega.png
 335,Zangoose,Normal,NA,458,73,115,60,60,60,90,FALSE,3,https://img.pokemondb.net/sprites/home/normal/zangoose.png
 336,Seviper,Poison,NA,458,73,100,60,100,60,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/seviper.png
 337,Lunatone,Rock,Psychic,460,90,55,65,95,85,70,FALSE,3,https://img.pokemondb.net/sprites/home/normal/lunatone.png
@@ -431,17 +435,17 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 352,Kecleon,Normal,NA,440,60,90,70,60,120,40,FALSE,3,https://img.pokemondb.net/sprites/home/normal/kecleon.png
 353,Shuppet,Ghost,NA,295,44,75,35,63,33,45,FALSE,3,https://img.pokemondb.net/sprites/home/normal/shuppet.png
 354,Banette,Ghost,NA,455,64,115,65,83,63,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/banette.png
-354,Banette Mega Banette,Ghost,NA,555,64,165,75,93,83,75,FALSE,3,https://img.pokemondb.net/sprites/home/normal/banette-mega-banette.png
+354,Banette Mega,Ghost,NA,555,64,165,75,93,83,75,FALSE,3,https://img.pokemondb.net/sprites/home/normal/banette-mega.png
 355,Duskull,Ghost,NA,295,20,40,90,30,90,25,FALSE,3,https://img.pokemondb.net/sprites/home/normal/duskull.png
 356,Dusclops,Ghost,NA,455,40,70,130,60,130,25,FALSE,3,https://img.pokemondb.net/sprites/home/normal/dusclops.png
 357,Tropius,Grass,Flying,460,99,68,83,72,87,51,FALSE,3,https://img.pokemondb.net/sprites/home/normal/tropius.png
 358,Chimecho,Psychic,NA,455,75,50,80,95,90,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/chimecho.png
 359,Absol,Dark,NA,465,65,130,60,75,60,75,FALSE,3,https://img.pokemondb.net/sprites/home/normal/absol.png
-359,Absol Mega Absol,Dark,NA,565,65,150,60,115,60,115,FALSE,3,https://img.pokemondb.net/sprites/home/normal/absol-mega-absol.png
+359,Absol Mega,Dark,NA,565,65,150,60,115,60,115,FALSE,3,https://img.pokemondb.net/sprites/home/normal/absol-mega.png
 360,Wynaut,Psychic,NA,260,95,23,48,23,48,23,FALSE,3,https://img.pokemondb.net/sprites/home/normal/wynaut.png
 361,Snorunt,Ice,NA,300,50,50,50,50,50,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/snorunt.png
 362,Glalie,Ice,NA,480,80,80,80,80,80,80,FALSE,3,https://img.pokemondb.net/sprites/home/normal/glalie.png
-362,Glalie Mega Glalie,Ice,NA,580,80,120,80,120,80,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/glalie-mega-glalie.png
+362,Glalie Mega,Ice,NA,580,80,120,80,120,80,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/glalie-mega.png
 363,Spheal,Ice,Water,290,70,40,50,55,50,25,FALSE,3,https://img.pokemondb.net/sprites/home/normal/spheal.png
 364,Sealeo,Ice,Water,410,90,60,70,75,70,45,FALSE,3,https://img.pokemondb.net/sprites/home/normal/sealeo.png
 365,Walrein,Ice,Water,530,110,80,90,95,90,65,FALSE,3,https://img.pokemondb.net/sprites/home/normal/walrein.png
@@ -453,24 +457,24 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 371,Bagon,Dragon,NA,300,45,75,60,40,30,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/bagon.png
 372,Shelgon,Dragon,NA,420,65,95,100,60,50,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/shelgon.png
 373,Salamence,Dragon,Flying,600,95,135,80,110,80,100,FALSE,3,https://img.pokemondb.net/sprites/home/normal/salamence.png
-373,Salamence Mega Salamence,Dragon,Flying,700,95,145,130,120,90,120,FALSE,3,https://img.pokemondb.net/sprites/home/normal/salamence-mega-salamence.png
+373,Salamence Mega,Dragon,Flying,700,95,145,130,120,90,120,FALSE,3,https://img.pokemondb.net/sprites/home/normal/salamence-mega.png
 374,Beldum,Steel,Psychic,300,40,55,80,35,60,30,FALSE,3,https://img.pokemondb.net/sprites/home/normal/beldum.png
 375,Metang,Steel,Psychic,420,60,75,100,55,80,50,FALSE,3,https://img.pokemondb.net/sprites/home/normal/metang.png
 376,Metagross,Steel,Psychic,600,80,135,130,95,90,70,FALSE,3,https://img.pokemondb.net/sprites/home/normal/metagross.png
-376,Metagross Mega Metagross,Steel,Psychic,700,80,145,150,105,110,110,FALSE,3,https://img.pokemondb.net/sprites/home/normal/metagross-mega-metagross.png
+376,Metagross Mega,Steel,Psychic,700,80,145,150,105,110,110,FALSE,3,https://img.pokemondb.net/sprites/home/normal/metagross-mega.png
 377,Regirock,Rock,NA,580,80,100,200,50,100,50,TRUE,3,https://img.pokemondb.net/sprites/home/normal/regirock.png
 378,Regice,Ice,NA,580,80,50,100,100,200,50,TRUE,3,https://img.pokemondb.net/sprites/home/normal/regice.png
 379,Registeel,Steel,NA,580,80,75,150,75,150,50,TRUE,3,https://img.pokemondb.net/sprites/home/normal/registeel.png
 380,Latias,Dragon,Psychic,600,80,80,90,110,130,110,TRUE,3,https://img.pokemondb.net/sprites/home/normal/latias.png
-380,Latias Mega Latias,Dragon,Psychic,700,80,100,120,140,150,110,FALSE,3,https://img.pokemondb.net/sprites/home/normal/latias-mega-latias.png
+380,Latias Mega,Dragon,Psychic,700,80,100,120,140,150,110,FALSE,3,https://img.pokemondb.net/sprites/home/normal/latias-mega.png
 381,Latios,Dragon,Psychic,600,80,90,80,130,110,110,TRUE,3,https://img.pokemondb.net/sprites/home/normal/latios.png
-381,Latios Mega Latios,Dragon,Psychic,700,80,130,100,160,120,110,FALSE,3,https://img.pokemondb.net/sprites/home/normal/latios-mega-latios.png
+381,Latios Mega,Dragon,Psychic,700,80,130,100,160,120,110,FALSE,3,https://img.pokemondb.net/sprites/home/normal/latios-mega.png
 382,Kyogre,Water,NA,670,100,100,90,150,140,90,TRUE,3,https://img.pokemondb.net/sprites/home/normal/kyogre.png
-382,Kyogre Primal Kyogre,Water,NA,770,100,150,90,180,160,90,FALSE,3,https://img.pokemondb.net/sprites/home/normal/kyogre-primal-kyogre.png
+382,Kyogre Primal,Water,NA,770,100,150,90,180,160,90,FALSE,3,https://img.pokemondb.net/sprites/home/normal/kyogre-primal.png
 383,Groudon,Ground,NA,670,100,150,140,100,90,90,TRUE,3,https://img.pokemondb.net/sprites/home/normal/groudon.png
-383,Groudon Primal Groudon,Ground,Fire,770,100,180,160,150,90,90,FALSE,3,https://img.pokemondb.net/sprites/home/normal/groudon-primal-groudon.png
+383,Groudon Primal,Ground,Fire,770,100,180,160,150,90,90,FALSE,3,https://img.pokemondb.net/sprites/home/normal/groudon-primal.png
 384,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,TRUE,3,https://img.pokemondb.net/sprites/home/normal/rayquaza.png
-384,Rayquaza Mega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115,FALSE,3,https://img.pokemondb.net/sprites/home/normal/rayquaza-mega-rayquaza.png
+384,Rayquaza Mega,Dragon,Flying,780,105,180,100,180,100,115,FALSE,3,https://img.pokemondb.net/sprites/home/normal/rayquaza-mega.png
 385,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,TRUE,3,https://img.pokemondb.net/sprites/home/normal/jirachi.png
 386,Deoxys Normal Forme,Psychic,NA,600,50,150,50,150,50,150,FALSE,3,https://img.pokemondb.net/sprites/home/normal/deoxys-normal-forme.png
 386,Deoxys Attack Forme,Psychic,NA,600,50,180,20,180,20,150,FALSE,3,https://img.pokemondb.net/sprites/home/normal/deoxys-attack-forme.png
@@ -522,7 +526,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 426,Drifblim,Ghost,Flying,498,150,80,44,90,54,80,FALSE,4,https://img.pokemondb.net/sprites/home/normal/drifblim.png
 427,Buneary,Normal,NA,350,55,66,44,44,56,85,FALSE,4,https://img.pokemondb.net/sprites/home/normal/buneary.png
 428,Lopunny,Normal,NA,480,65,76,84,54,96,105,FALSE,4,https://img.pokemondb.net/sprites/home/normal/lopunny.png
-428,Lopunny Mega Lopunny,Normal,Fighting,580,65,136,94,54,96,135,FALSE,4,https://img.pokemondb.net/sprites/home/normal/lopunny-mega-lopunny.png
+428,Lopunny Mega,Normal,Fighting,580,65,136,94,54,96,135,FALSE,4,https://img.pokemondb.net/sprites/home/normal/lopunny-mega.png
 429,Mismagius,Ghost,NA,495,60,60,60,105,105,105,FALSE,4,https://img.pokemondb.net/sprites/home/normal/mismagius.png
 430,Honchkrow,Dark,Flying,505,100,125,52,105,52,71,FALSE,4,https://img.pokemondb.net/sprites/home/normal/honchkrow.png
 431,Glameow,Normal,NA,310,49,55,42,42,37,85,FALSE,4,https://img.pokemondb.net/sprites/home/normal/glameow.png
@@ -533,18 +537,18 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 436,Bronzor,Steel,Psychic,300,57,24,86,24,86,23,FALSE,4,https://img.pokemondb.net/sprites/home/normal/bronzor.png
 437,Bronzong,Steel,Psychic,500,67,89,116,79,116,33,FALSE,4,https://img.pokemondb.net/sprites/home/normal/bronzong.png
 438,Bonsly,Rock,NA,290,50,80,95,10,45,10,FALSE,4,https://img.pokemondb.net/sprites/home/normal/bonsly.png
-439,Mime Jr.,Psychic,Fairy,310,20,25,45,70,90,60,FALSE,4,https://img.pokemondb.net/sprites/home/normal/mime-jr..png
+439,Mime Jr,Psychic,Fairy,310,20,25,45,70,90,60,FALSE,4,https://img.pokemondb.net/sprites/home/normal/mime-jr.png
 440,Happiny,Normal,NA,220,100,5,5,15,65,30,FALSE,4,https://img.pokemondb.net/sprites/home/normal/happiny.png
 441,Chatot,Normal,Flying,411,76,65,45,92,42,91,FALSE,4,https://img.pokemondb.net/sprites/home/normal/chatot.png
 442,Spiritomb,Ghost,Dark,485,50,92,108,92,108,35,FALSE,4,https://img.pokemondb.net/sprites/home/normal/spiritomb.png
 443,Gible,Dragon,Ground,300,58,70,45,40,45,42,FALSE,4,https://img.pokemondb.net/sprites/home/normal/gible.png
 444,Gabite,Dragon,Ground,410,68,90,65,50,55,82,FALSE,4,https://img.pokemondb.net/sprites/home/normal/gabite.png
 445,Garchomp,Dragon,Ground,600,108,130,95,80,85,102,FALSE,4,https://img.pokemondb.net/sprites/home/normal/garchomp.png
-445,Garchomp Mega Garchomp,Dragon,Ground,700,108,170,115,120,95,92,FALSE,4,https://img.pokemondb.net/sprites/home/normal/garchomp-mega-garchomp.png
+445,Garchomp Mega,Dragon,Ground,700,108,170,115,120,95,92,FALSE,4,https://img.pokemondb.net/sprites/home/normal/garchomp-mega.png
 446,Munchlax,Normal,NA,390,135,85,40,40,85,5,FALSE,4,https://img.pokemondb.net/sprites/home/normal/munchlax.png
 447,Riolu,Fighting,NA,285,40,70,40,35,40,60,FALSE,4,https://img.pokemondb.net/sprites/home/normal/riolu.png
 448,Lucario,Fighting,Steel,525,70,110,70,115,70,90,FALSE,4,https://img.pokemondb.net/sprites/home/normal/lucario.png
-448,Lucario Mega Lucario,Fighting,Steel,625,70,145,88,140,70,112,FALSE,4,https://img.pokemondb.net/sprites/home/normal/lucario-mega-lucario.png
+448,Lucario Mega,Fighting,Steel,625,70,145,88,140,70,112,FALSE,4,https://img.pokemondb.net/sprites/home/normal/lucario-mega.png
 449,Hippopotas,Ground,NA,330,68,72,78,38,42,32,FALSE,4,https://img.pokemondb.net/sprites/home/normal/hippopotas.png
 450,Hippowdon,Ground,NA,525,108,112,118,68,72,47,FALSE,4,https://img.pokemondb.net/sprites/home/normal/hippowdon.png
 451,Skorupi,Poison,Bug,330,40,50,90,30,55,65,FALSE,4,https://img.pokemondb.net/sprites/home/normal/skorupi.png
@@ -557,7 +561,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 458,Mantyke,Water,Flying,345,45,20,50,60,120,50,FALSE,4,https://img.pokemondb.net/sprites/home/normal/mantyke.png
 459,Snover,Grass,Ice,334,60,62,50,62,60,40,FALSE,4,https://img.pokemondb.net/sprites/home/normal/snover.png
 460,Abomasnow,Grass,Ice,494,90,92,75,92,85,60,FALSE,4,https://img.pokemondb.net/sprites/home/normal/abomasnow.png
-460,Abomasnow Mega Abomasnow,Grass,Ice,594,90,132,105,132,105,30,FALSE,4,https://img.pokemondb.net/sprites/home/normal/abomasnow-mega-abomasnow.png
+460,Abomasnow Mega,Grass,Ice,594,90,132,105,132,105,30,FALSE,4,https://img.pokemondb.net/sprites/home/normal/abomasnow-mega.png
 461,Weavile,Dark,Ice,510,70,120,65,45,85,125,FALSE,4,https://img.pokemondb.net/sprites/home/normal/weavile.png
 462,Magnezone,Electric,Steel,535,70,70,115,130,90,60,FALSE,4,https://img.pokemondb.net/sprites/home/normal/magnezone.png
 463,Lickilicky,Normal,NA,515,110,85,95,80,95,50,FALSE,4,https://img.pokemondb.net/sprites/home/normal/lickilicky.png
@@ -571,18 +575,18 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 471,Glaceon,Ice,NA,525,65,60,110,130,95,65,FALSE,4,https://img.pokemondb.net/sprites/home/normal/glaceon.png
 472,Gliscor,Ground,Flying,510,75,95,125,45,75,95,FALSE,4,https://img.pokemondb.net/sprites/home/normal/gliscor.png
 473,Mamoswine,Ice,Ground,530,110,130,80,70,60,80,FALSE,4,https://img.pokemondb.net/sprites/home/normal/mamoswine.png
-474,Porygon-Z,Normal,NA,535,85,80,70,135,75,90,FALSE,4,https://img.pokemondb.net/sprites/home/normal/porygon-z.png
+474,Porygon Z,Normal,NA,535,85,80,70,135,75,90,FALSE,4,https://img.pokemondb.net/sprites/home/normal/porygon-z.png
 475,Gallade,Psychic,Fighting,518,68,125,65,65,115,80,FALSE,4,https://img.pokemondb.net/sprites/home/normal/gallade.png
-475,Gallade Mega Gallade,Psychic,Fighting,618,68,165,95,65,115,110,FALSE,4,https://img.pokemondb.net/sprites/home/normal/gallade-mega-gallade.png
+475,Gallade Mega,Psychic,Fighting,618,68,165,95,65,115,110,FALSE,4,https://img.pokemondb.net/sprites/home/normal/gallade-mega.png
 476,Probopass,Rock,Steel,525,60,55,145,75,150,40,FALSE,4,https://img.pokemondb.net/sprites/home/normal/probopass.png
 477,Dusknoir,Ghost,NA,525,45,100,135,65,135,45,FALSE,4,https://img.pokemondb.net/sprites/home/normal/dusknoir.png
 478,Froslass,Ice,Ghost,480,70,80,70,80,70,110,FALSE,4,https://img.pokemondb.net/sprites/home/normal/froslass.png
 479,Rotom,Electric,Ghost,440,50,50,77,95,77,91,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom.png
-479,Rotom Heat Rotom,Electric,Fire,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-heat-rotom.png
-479,Rotom Wash Rotom,Electric,Water,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-wash-rotom.png
-479,Rotom Frost Rotom,Electric,Ice,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-frost-rotom.png
-479,Rotom Fan Rotom,Electric,Flying,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-fan-rotom.png
-479,Rotom Mow Rotom,Electric,Grass,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-mow-rotom.png
+479,Rotom Heat,Electric,Fire,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-heat.png
+479,Rotom Wash,Electric,Water,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-wash.png
+479,Rotom Frost,Electric,Ice,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-frost.png
+479,Rotom Fan,Electric,Flying,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-fan.png
+479,Rotom Mow,Electric,Grass,520,50,65,107,105,107,86,FALSE,4,https://img.pokemondb.net/sprites/home/normal/rotom-mow.png
 480,Uxie,Psychic,NA,580,75,75,130,75,130,95,TRUE,4,https://img.pokemondb.net/sprites/home/normal/uxie.png
 481,Mesprit,Psychic,NA,580,80,105,105,105,105,80,TRUE,4,https://img.pokemondb.net/sprites/home/normal/mesprit.png
 482,Azelf,Psychic,NA,580,75,125,70,125,70,115,TRUE,4,https://img.pokemondb.net/sprites/home/normal/azelf.png
@@ -594,7 +598,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 486,Regigigas,Normal,NA,670,110,160,110,80,110,100,TRUE,4,https://img.pokemondb.net/sprites/home/normal/regigigas.png
 487,Giratina Altered Forme,Ghost,Dragon,680,150,100,120,100,120,90,FALSE,4,https://img.pokemondb.net/sprites/home/normal/giratina-altered-forme.png
 487,Giratina Origin Forme,Ghost,Dragon,680,150,120,100,120,100,90,FALSE,4,https://img.pokemondb.net/sprites/home/normal/giratina-origin-forme.png
-488,Cresselia,Psychic,NA,600,120,70,120,75,130,85,TRUE,4,https://img.pokemondb.net/sprites/home/normal/cresselia.png
+488,Cresselia,Psychic,NA,580,120,70,110,75,120,85,TRUE,4,https://img.pokemondb.net/sprites/home/normal/cresselia.png
 489,Phione,Water,NA,480,80,80,80,80,80,80,TRUE,4,https://img.pokemondb.net/sprites/home/normal/phione.png
 490,Manaphy,Water,NA,600,100,100,100,100,100,100,TRUE,4,https://img.pokemondb.net/sprites/home/normal/manaphy.png
 491,Darkrai,Dark,NA,600,70,90,90,135,90,125,TRUE,4,https://img.pokemondb.net/sprites/home/normal/darkrai.png
@@ -611,7 +615,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 501,Oshawott,Water,NA,308,55,55,45,63,45,45,FALSE,5,https://img.pokemondb.net/sprites/home/normal/oshawott.png
 502,Dewott,Water,NA,413,75,75,60,83,60,60,FALSE,5,https://img.pokemondb.net/sprites/home/normal/dewott.png
 503,Samurott,Water,NA,528,95,100,85,108,70,70,FALSE,5,https://img.pokemondb.net/sprites/home/normal/samurott.png
-503,Samurott Hisuian Samurott,Water,Dark,528,90,108,80,100,65,85,FALSE,5,https://img.pokemondb.net/sprites/home/normal/samurott-hisuian-samurott.png
+503,Samurott Hisuian,Water,Dark,528,90,108,80,100,65,85,FALSE,5,https://img.pokemondb.net/sprites/home/normal/samurott-hisuian.png
 504,Patrat,Normal,NA,255,45,55,39,35,39,42,FALSE,5,https://img.pokemondb.net/sprites/home/normal/patrat.png
 505,Watchog,Normal,NA,420,60,85,69,60,69,77,FALSE,5,https://img.pokemondb.net/sprites/home/normal/watchog.png
 506,Lillipup,Normal,NA,275,45,60,45,25,45,55,FALSE,5,https://img.pokemondb.net/sprites/home/normal/lillipup.png
@@ -640,7 +644,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 529,Drilbur,Ground,NA,328,60,85,40,30,45,68,FALSE,5,https://img.pokemondb.net/sprites/home/normal/drilbur.png
 530,Excadrill,Ground,Steel,508,110,135,60,50,65,88,FALSE,5,https://img.pokemondb.net/sprites/home/normal/excadrill.png
 531,Audino,Normal,NA,445,103,60,86,60,86,50,FALSE,5,https://img.pokemondb.net/sprites/home/normal/audino.png
-531,Audino Mega Audino,Normal,Fairy,545,103,60,126,80,126,50,FALSE,5,https://img.pokemondb.net/sprites/home/normal/audino-mega-audino.png
+531,Audino Mega,Normal,Fairy,545,103,60,126,80,126,50,FALSE,5,https://img.pokemondb.net/sprites/home/normal/audino-mega.png
 532,Timburr,Fighting,NA,305,75,80,55,25,35,35,FALSE,5,https://img.pokemondb.net/sprites/home/normal/timburr.png
 533,Gurdurr,Fighting,NA,405,85,105,85,40,50,40,FALSE,5,https://img.pokemondb.net/sprites/home/normal/gurdurr.png
 534,Conkeldurr,Fighting,NA,505,105,140,95,55,65,45,FALSE,5,https://img.pokemondb.net/sprites/home/normal/conkeldurr.png
@@ -659,15 +663,15 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 547,Whimsicott,Grass,Fairy,480,60,67,85,77,75,116,FALSE,5,https://img.pokemondb.net/sprites/home/normal/whimsicott.png
 548,Petilil,Grass,NA,280,45,35,50,70,50,30,FALSE,5,https://img.pokemondb.net/sprites/home/normal/petilil.png
 549,Lilligant,Grass,NA,480,70,60,75,110,75,90,FALSE,5,https://img.pokemondb.net/sprites/home/normal/lilligant.png
-549,Lilligant Hisuian Lilligant,Grass,Fighting,480,70,105,75,50,75,105,FALSE,5,https://img.pokemondb.net/sprites/home/normal/lilligant-hisuian-lilligant.png
-550,Basculin Red-Striped Form,Water,NA,460,70,92,65,80,55,98,FALSE,5,https://img.pokemondb.net/sprites/home/normal/basculin-red-striped-form.png
-550,Basculin Blue-Striped Form,Water,NA,460,70,92,65,80,55,98,FALSE,5,https://img.pokemondb.net/sprites/home/normal/basculin-blue-striped-form.png
-550,Basculin White-Striped Form,Water,NA,460,70,92,65,80,55,98,FALSE,5,https://img.pokemondb.net/sprites/home/normal/basculin-white-striped-form.png
+549,Lilligant Hisuian,Grass,Fighting,480,70,105,75,50,75,105,FALSE,5,https://img.pokemondb.net/sprites/home/normal/lilligant-hisuian.png
+550,Basculin Red Striped Form,Water,NA,460,70,92,65,80,55,98,FALSE,5,https://img.pokemondb.net/sprites/home/normal/basculin-red-striped-form.png
+550,Basculin Blue Striped Form,Water,NA,460,70,92,65,80,55,98,FALSE,5,https://img.pokemondb.net/sprites/home/normal/basculin-blue-striped-form.png
+550,Basculin White Striped Form,Water,NA,460,70,92,65,80,55,98,FALSE,5,https://img.pokemondb.net/sprites/home/normal/basculin-white-striped-form.png
 551,Sandile,Ground,Dark,292,50,72,35,35,35,65,FALSE,5,https://img.pokemondb.net/sprites/home/normal/sandile.png
 552,Krokorok,Ground,Dark,351,60,82,45,45,45,74,FALSE,5,https://img.pokemondb.net/sprites/home/normal/krokorok.png
 553,Krookodile,Ground,Dark,519,95,117,80,65,70,92,FALSE,5,https://img.pokemondb.net/sprites/home/normal/krookodile.png
 554,Darumaka,Fire,NA,315,70,90,45,15,45,50,FALSE,5,https://img.pokemondb.net/sprites/home/normal/darumaka.png
-554,Darumaka Galarian Darumaka,Ice,NA,315,70,90,45,15,45,50,FALSE,5,https://img.pokemondb.net/sprites/home/normal/darumaka-galarian-darumaka.png
+554,Darumaka Galarian,Ice,NA,315,70,90,45,15,45,50,FALSE,5,https://img.pokemondb.net/sprites/home/normal/darumaka-galarian.png
 555,Darmanitan Standard Mode,Fire,NA,480,105,140,55,30,55,95,FALSE,5,https://img.pokemondb.net/sprites/home/normal/darmanitan-standard-mode.png
 555,Darmanitan Zen Mode,Fire,Psychic,540,105,30,105,140,105,55,FALSE,5,https://img.pokemondb.net/sprites/home/normal/darmanitan-zen-mode.png
 555,Darmanitan Galarian Standard Mode,Ice,NA,480,105,140,55,30,55,95,FALSE,5,https://img.pokemondb.net/sprites/home/normal/darmanitan-galarian-standard-mode.png
@@ -679,7 +683,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 560,Scrafty,Dark,Fighting,488,65,90,115,45,115,58,FALSE,5,https://img.pokemondb.net/sprites/home/normal/scrafty.png
 561,Sigilyph,Psychic,Flying,490,72,58,80,103,80,97,FALSE,5,https://img.pokemondb.net/sprites/home/normal/sigilyph.png
 562,Yamask,Ghost,NA,303,38,30,85,55,65,30,FALSE,5,https://img.pokemondb.net/sprites/home/normal/yamask.png
-562,Yamask Galarian Yamask,Ground,Ghost,303,38,55,85,30,65,30,FALSE,5,https://img.pokemondb.net/sprites/home/normal/yamask-galarian-yamask.png
+562,Yamask Galarian,Ground,Ghost,303,38,55,85,30,65,30,FALSE,5,https://img.pokemondb.net/sprites/home/normal/yamask-galarian.png
 563,Cofagrigus,Ghost,NA,483,58,50,145,95,105,30,FALSE,5,https://img.pokemondb.net/sprites/home/normal/cofagrigus.png
 564,Tirtouga,Water,Rock,355,54,78,103,53,45,22,FALSE,5,https://img.pokemondb.net/sprites/home/normal/tirtouga.png
 565,Carracosta,Water,Rock,495,74,108,133,83,65,32,FALSE,5,https://img.pokemondb.net/sprites/home/normal/carracosta.png
@@ -688,9 +692,9 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 568,Trubbish,Poison,NA,329,50,50,62,40,62,65,FALSE,5,https://img.pokemondb.net/sprites/home/normal/trubbish.png
 569,Garbodor,Poison,NA,474,80,95,82,60,82,75,FALSE,5,https://img.pokemondb.net/sprites/home/normal/garbodor.png
 570,Zorua,Dark,NA,330,40,65,40,80,40,65,FALSE,5,https://img.pokemondb.net/sprites/home/normal/zorua.png
-570,Zorua Hisuian Zorua,Normal,Ghost,330,35,60,40,85,40,70,FALSE,5,https://img.pokemondb.net/sprites/home/normal/zorua-hisuian-zorua.png
+570,Zorua Hisuian,Normal,Ghost,330,35,60,40,85,40,70,FALSE,5,https://img.pokemondb.net/sprites/home/normal/zorua-hisuian.png
 571,Zoroark,Dark,NA,510,60,105,60,120,60,105,FALSE,5,https://img.pokemondb.net/sprites/home/normal/zoroark.png
-571,Zoroark Hisuian Zoroark,Normal,Ghost,510,55,100,60,125,60,110,FALSE,5,https://img.pokemondb.net/sprites/home/normal/zoroark-hisuian-zoroark.png
+571,Zoroark Hisuian,Normal,Ghost,510,55,100,60,125,60,110,FALSE,5,https://img.pokemondb.net/sprites/home/normal/zoroark-hisuian.png
 572,Minccino,Normal,NA,300,55,50,40,40,40,75,FALSE,5,https://img.pokemondb.net/sprites/home/normal/minccino.png
 573,Cinccino,Normal,NA,470,75,95,60,65,60,115,FALSE,5,https://img.pokemondb.net/sprites/home/normal/cinccino.png
 574,Gothita,Psychic,NA,290,45,30,50,55,65,45,FALSE,5,https://img.pokemondb.net/sprites/home/normal/gothita.png
@@ -738,7 +742,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 616,Shelmet,Bug,NA,305,50,40,85,40,65,25,FALSE,5,https://img.pokemondb.net/sprites/home/normal/shelmet.png
 617,Accelgor,Bug,NA,495,80,70,40,100,60,145,FALSE,5,https://img.pokemondb.net/sprites/home/normal/accelgor.png
 618,Stunfisk,Ground,Electric,471,109,66,84,81,99,32,FALSE,5,https://img.pokemondb.net/sprites/home/normal/stunfisk.png
-618,Stunfisk Galarian Stunfisk,Ground,Steel,471,109,81,99,66,84,32,FALSE,5,https://img.pokemondb.net/sprites/home/normal/stunfisk-galarian-stunfisk.png
+618,Stunfisk Galarian,Ground,Steel,471,109,81,99,66,84,32,FALSE,5,https://img.pokemondb.net/sprites/home/normal/stunfisk-galarian.png
 619,Mienfoo,Fighting,NA,350,45,85,50,55,50,65,FALSE,5,https://img.pokemondb.net/sprites/home/normal/mienfoo.png
 620,Mienshao,Fighting,NA,510,65,125,60,95,60,105,FALSE,5,https://img.pokemondb.net/sprites/home/normal/mienshao.png
 621,Druddigon,Dragon,NA,485,77,120,90,60,90,48,FALSE,5,https://img.pokemondb.net/sprites/home/normal/druddigon.png
@@ -749,7 +753,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 626,Bouffalant,Normal,NA,490,95,110,95,40,95,55,FALSE,5,https://img.pokemondb.net/sprites/home/normal/bouffalant.png
 627,Rufflet,Normal,Flying,350,70,83,50,37,50,60,FALSE,5,https://img.pokemondb.net/sprites/home/normal/rufflet.png
 628,Braviary,Normal,Flying,510,100,123,75,57,75,80,FALSE,5,https://img.pokemondb.net/sprites/home/normal/braviary.png
-628,Braviary Hisuian Braviary,Psychic,Flying,510,110,83,70,112,70,65,FALSE,5,https://img.pokemondb.net/sprites/home/normal/braviary-hisuian-braviary.png
+628,Braviary Hisuian,Psychic,Flying,510,110,83,70,112,70,65,FALSE,5,https://img.pokemondb.net/sprites/home/normal/braviary-hisuian.png
 629,Vullaby,Dark,Flying,370,70,55,75,45,65,60,FALSE,5,https://img.pokemondb.net/sprites/home/normal/vullaby.png
 630,Mandibuzz,Dark,Flying,510,110,65,105,55,95,80,FALSE,5,https://img.pokemondb.net/sprites/home/normal/mandibuzz.png
 631,Heatmor,Fire,NA,484,85,97,66,105,66,65,FALSE,5,https://img.pokemondb.net/sprites/home/normal/heatmor.png
@@ -771,8 +775,8 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 645,Landorus Incarnate Forme,Ground,Flying,600,89,125,90,115,80,101,FALSE,5,https://img.pokemondb.net/sprites/home/normal/landorus-incarnate-forme.png
 645,Landorus Therian Forme,Ground,Flying,600,89,145,90,105,80,91,FALSE,5,https://img.pokemondb.net/sprites/home/normal/landorus-therian-forme.png
 646,Kyurem,Dragon,Ice,660,125,130,90,130,90,95,TRUE,5,https://img.pokemondb.net/sprites/home/normal/kyurem.png
-646,Kyurem Black Kyurem,Dragon,Ice,700,125,170,100,120,90,95,FALSE,5,https://img.pokemondb.net/sprites/home/normal/kyurem-black-kyurem.png
-646,Kyurem White Kyurem,Dragon,Ice,700,125,120,90,170,100,95,FALSE,5,https://img.pokemondb.net/sprites/home/normal/kyurem-white-kyurem.png
+646,Kyurem White,Dragon,Ice,700,125,120,90,170,100,95,FALSE,5,https://img.pokemondb.net/sprites/home/normal/kyurem-white.png
+646,Kyurem Black,Dragon,Ice,700,125,170,100,120,90,95,FALSE,5,https://img.pokemondb.net/sprites/home/normal/kyurem-black.png
 647,Keldeo Ordinary Form,Water,Fighting,580,91,72,90,129,90,108,FALSE,5,https://img.pokemondb.net/sprites/home/normal/keldeo-ordinary-form.png
 647,Keldeo Resolute Form,Water,Fighting,580,91,72,90,129,90,108,FALSE,5,https://img.pokemondb.net/sprites/home/normal/keldeo-resolute-form.png
 648,Meloetta Aria Forme,Normal,Psychic,600,100,77,77,128,128,90,FALSE,5,https://img.pokemondb.net/sprites/home/normal/meloetta-aria-forme.png
@@ -787,7 +791,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 656,Froakie,Water,NA,314,41,56,40,62,44,71,FALSE,6,https://img.pokemondb.net/sprites/home/normal/froakie.png
 657,Frogadier,Water,NA,405,54,63,52,83,56,97,FALSE,6,https://img.pokemondb.net/sprites/home/normal/frogadier.png
 658,Greninja,Water,Dark,530,72,95,67,103,71,122,FALSE,6,https://img.pokemondb.net/sprites/home/normal/greninja.png
-658,Greninja Ash-Greninja,Water,Dark,640,72,145,67,153,71,132,FALSE,6,https://img.pokemondb.net/sprites/home/normal/greninja-ash-greninja.png
+658,Greninja Ash,Water,Dark,640,72,145,67,153,71,132,FALSE,6,https://img.pokemondb.net/sprites/home/normal/greninja-ash.png
 659,Bunnelby,Normal,NA,237,38,36,38,32,36,57,FALSE,6,https://img.pokemondb.net/sprites/home/normal/bunnelby.png
 660,Diggersby,Normal,Ground,423,85,56,77,50,77,78,FALSE,6,https://img.pokemondb.net/sprites/home/normal/diggersby.png
 661,Fletchling,Normal,Flying,278,45,50,43,40,38,62,FALSE,6,https://img.pokemondb.net/sprites/home/normal/fletchling.png
@@ -837,9 +841,9 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 703,Carbink,Rock,Fairy,500,50,50,150,50,150,50,FALSE,6,https://img.pokemondb.net/sprites/home/normal/carbink.png
 704,Goomy,Dragon,NA,300,45,50,35,55,75,40,FALSE,6,https://img.pokemondb.net/sprites/home/normal/goomy.png
 705,Sliggoo,Dragon,NA,452,68,75,53,83,113,60,FALSE,6,https://img.pokemondb.net/sprites/home/normal/sliggoo.png
-705,Sliggoo Hisuian Sliggoo,Dragon,Steel,452,58,75,83,83,113,40,FALSE,6,https://img.pokemondb.net/sprites/home/normal/sliggoo-hisuian-sliggoo.png
+705,Sliggoo Hisuian,Steel,Dragon,452,58,75,83,83,113,40,FALSE,6,https://img.pokemondb.net/sprites/home/normal/sliggoo-hisuian.png
 706,Goodra,Dragon,NA,600,90,100,70,110,150,80,FALSE,6,https://img.pokemondb.net/sprites/home/normal/goodra.png
-706,Goodra Hisuian Goodra,Dragon,Steel,600,80,100,100,110,150,60,FALSE,6,https://img.pokemondb.net/sprites/home/normal/goodra-hisuian-goodra.png
+706,Goodra Hisuian,Steel,Dragon,600,80,100,100,110,150,60,FALSE,6,https://img.pokemondb.net/sprites/home/normal/goodra-hisuian.png
 707,Klefki,Steel,Fairy,470,57,80,91,80,87,75,FALSE,6,https://img.pokemondb.net/sprites/home/normal/klefki.png
 708,Phantump,Ghost,Grass,309,43,70,48,50,60,38,FALSE,6,https://img.pokemondb.net/sprites/home/normal/phantump.png
 709,Trevenant,Ghost,Grass,474,85,110,76,65,82,56,FALSE,6,https://img.pokemondb.net/sprites/home/normal/trevenant.png
@@ -853,23 +857,23 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 711,Gourgeist Super Size,Ghost,Grass,494,85,100,122,58,75,54,FALSE,6,https://img.pokemondb.net/sprites/home/normal/gourgeist-super-size.png
 712,Bergmite,Ice,NA,304,55,69,85,32,35,28,FALSE,6,https://img.pokemondb.net/sprites/home/normal/bergmite.png
 713,Avalugg,Ice,NA,514,95,117,184,44,46,28,FALSE,6,https://img.pokemondb.net/sprites/home/normal/avalugg.png
-713,Avalugg Hisuian Avalugg,Ice,Rock,514,95,127,184,34,36,38,FALSE,6,https://img.pokemondb.net/sprites/home/normal/avalugg-hisuian-avalugg.png
+713,Avalugg Hisuian,Ice,Rock,514,95,127,184,34,36,38,FALSE,6,https://img.pokemondb.net/sprites/home/normal/avalugg-hisuian.png
 714,Noibat,Flying,Dragon,245,40,30,35,45,40,55,FALSE,6,https://img.pokemondb.net/sprites/home/normal/noibat.png
 715,Noivern,Flying,Dragon,535,85,70,80,97,80,123,FALSE,6,https://img.pokemondb.net/sprites/home/normal/noivern.png
 716,Xerneas,Fairy,NA,680,126,131,95,131,98,99,TRUE,6,https://img.pokemondb.net/sprites/home/normal/xerneas.png
 717,Yveltal,Dark,Flying,680,126,131,95,131,98,99,TRUE,6,https://img.pokemondb.net/sprites/home/normal/yveltal.png
-718,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,FALSE,6,https://img.pokemondb.net/sprites/home/normal/zygarde50%-forme.png
-718,Zygarde10% Forme,Dragon,Ground,486,54,100,71,61,85,115,FALSE,6,https://img.pokemondb.net/sprites/home/normal/zygarde10%-forme.png
+718,Zygarde50  Forme,Dragon,Ground,600,108,100,121,81,95,95,FALSE,6,https://img.pokemondb.net/sprites/home/normal/zygarde50--forme.png
+718,Zygarde10  Forme,Dragon,Ground,486,54,100,71,61,85,115,FALSE,6,https://img.pokemondb.net/sprites/home/normal/zygarde10--forme.png
 718,Zygarde Complete Forme,Dragon,Ground,708,216,100,121,91,95,85,FALSE,6,https://img.pokemondb.net/sprites/home/normal/zygarde-complete-forme.png
 719,Diancie,Rock,Fairy,600,50,100,150,100,150,50,TRUE,6,https://img.pokemondb.net/sprites/home/normal/diancie.png
-719,Diancie Mega Diancie,Rock,Fairy,700,50,160,110,160,110,110,FALSE,6,https://img.pokemondb.net/sprites/home/normal/diancie-mega-diancie.png
-720,Hoopa Hoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,FALSE,6,https://img.pokemondb.net/sprites/home/normal/hoopa-hoopa-confined.png
-720,Hoopa Hoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,FALSE,6,https://img.pokemondb.net/sprites/home/normal/hoopa-hoopa-unbound.png
+719,Diancie Mega,Rock,Fairy,700,50,160,110,160,110,110,FALSE,6,https://img.pokemondb.net/sprites/home/normal/diancie-mega.png
+720,Hoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,FALSE,6,https://img.pokemondb.net/sprites/home/normal/hoopa-confined.png
+720,Hoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,FALSE,6,https://img.pokemondb.net/sprites/home/normal/hoopa-unbound.png
 721,Volcanion,Fire,Water,600,80,110,120,130,90,70,TRUE,6,https://img.pokemondb.net/sprites/home/normal/volcanion.png
 722,Rowlet,Grass,Flying,320,68,55,55,50,50,42,FALSE,7,https://img.pokemondb.net/sprites/home/normal/rowlet.png
 723,Dartrix,Grass,Flying,420,78,75,75,70,70,52,FALSE,7,https://img.pokemondb.net/sprites/home/normal/dartrix.png
 724,Decidueye,Grass,Ghost,530,78,107,75,100,100,70,FALSE,7,https://img.pokemondb.net/sprites/home/normal/decidueye.png
-724,Decidueye Hisuian Decidueye,Grass,Fighting,530,88,112,80,95,95,60,FALSE,7,https://img.pokemondb.net/sprites/home/normal/decidueye-hisuian-decidueye.png
+724,Decidueye Hisuian,Grass,Fighting,530,88,112,80,95,95,60,FALSE,7,https://img.pokemondb.net/sprites/home/normal/decidueye-hisuian.png
 725,Litten,Fire,NA,320,45,65,40,60,40,70,FALSE,7,https://img.pokemondb.net/sprites/home/normal/litten.png
 726,Torracat,Fire,NA,420,65,85,50,80,50,90,FALSE,7,https://img.pokemondb.net/sprites/home/normal/torracat.png
 727,Incineroar,Fire,Dark,530,95,115,90,80,90,60,FALSE,7,https://img.pokemondb.net/sprites/home/normal/incineroar.png
@@ -887,13 +891,13 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 739,Crabrawler,Fighting,NA,338,47,82,57,42,47,63,FALSE,7,https://img.pokemondb.net/sprites/home/normal/crabrawler.png
 740,Crabominable,Fighting,Ice,478,97,132,77,62,67,43,FALSE,7,https://img.pokemondb.net/sprites/home/normal/crabominable.png
 741,Oricorio Baile Style,Fire,Flying,476,75,70,70,98,70,93,FALSE,7,https://img.pokemondb.net/sprites/home/normal/oricorio-baile-style.png
-741,Oricorio Pom-Pom Style,Electric,Flying,476,75,70,70,98,70,93,FALSE,7,https://img.pokemondb.net/sprites/home/normal/oricorio-pom-pom-style.png
+741,Oricorio Pom Style,Electric,Flying,476,75,70,70,98,70,93,FALSE,7,https://img.pokemondb.net/sprites/home/normal/oricorio-pom-style.png
 741,Oricorio Pa'u Style,Psychic,Flying,476,75,70,70,98,70,93,FALSE,7,https://img.pokemondb.net/sprites/home/normal/oricorio-pa'u-style.png
 741,Oricorio Sensu Style,Ghost,Flying,476,75,70,70,98,70,93,FALSE,7,https://img.pokemondb.net/sprites/home/normal/oricorio-sensu-style.png
 742,Cutiefly,Bug,Fairy,304,40,45,40,55,40,84,FALSE,7,https://img.pokemondb.net/sprites/home/normal/cutiefly.png
 743,Ribombee,Bug,Fairy,464,60,55,60,95,70,124,FALSE,7,https://img.pokemondb.net/sprites/home/normal/ribombee.png
 744,Rockruff,Rock,NA,280,45,65,40,30,40,60,FALSE,7,https://img.pokemondb.net/sprites/home/normal/rockruff.png
-744,Rockruff Own Tempo Rockruff,Rock,NA,280,45,65,40,30,40,60,FALSE,7,https://img.pokemondb.net/sprites/home/normal/rockruff-own-tempo-rockruff.png
+744,Rockruff Own Tempo,Rock,NA,280,45,65,40,30,40,60,FALSE,7,https://img.pokemondb.net/sprites/home/normal/rockruff-own-tempo.png
 745,Lycanroc Midday Form,Rock,NA,487,75,115,65,55,65,112,FALSE,7,https://img.pokemondb.net/sprites/home/normal/lycanroc-midday-form.png
 745,Lycanroc Midnight Form,Rock,NA,487,85,115,75,55,75,82,FALSE,7,https://img.pokemondb.net/sprites/home/normal/lycanroc-midnight-form.png
 745,Lycanroc Dusk Form,Rock,NA,487,75,117,65,55,65,110,FALSE,7,https://img.pokemondb.net/sprites/home/normal/lycanroc-dusk-form.png
@@ -924,7 +928,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 769,Sandygast,Ghost,Ground,320,55,55,80,70,45,15,FALSE,7,https://img.pokemondb.net/sprites/home/normal/sandygast.png
 770,Palossand,Ghost,Ground,480,85,75,110,100,75,35,FALSE,7,https://img.pokemondb.net/sprites/home/normal/palossand.png
 771,Pyukumuku,Water,NA,410,55,60,130,30,130,5,FALSE,7,https://img.pokemondb.net/sprites/home/normal/pyukumuku.png
-772,Type: Null,Normal,NA,534,95,95,95,95,95,59,TRUE,7,https://img.pokemondb.net/sprites/home/normal/type:-null.png
+772,Type  Null,Normal,NA,534,95,95,95,95,95,59,TRUE,7,https://img.pokemondb.net/sprites/home/normal/type--null.png
 773,Silvally,Normal,NA,570,95,95,95,95,95,95,TRUE,7,https://img.pokemondb.net/sprites/home/normal/silvally.png
 774,Minior Meteor Form,Rock,Flying,440,60,60,100,60,100,60,FALSE,7,https://img.pokemondb.net/sprites/home/normal/minior-meteor-form.png
 774,Minior Core Form,Rock,Flying,500,60,100,60,100,60,120,FALSE,7,https://img.pokemondb.net/sprites/home/normal/minior-core-form.png
@@ -935,9 +939,9 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 779,Bruxish,Water,Psychic,475,68,105,70,70,70,92,FALSE,7,https://img.pokemondb.net/sprites/home/normal/bruxish.png
 780,Drampa,Normal,Dragon,485,78,60,85,135,91,36,FALSE,7,https://img.pokemondb.net/sprites/home/normal/drampa.png
 781,Dhelmise,Ghost,Grass,517,70,131,100,86,90,40,FALSE,7,https://img.pokemondb.net/sprites/home/normal/dhelmise.png
-782,Jangmo-o,Dragon,NA,300,45,55,65,45,45,45,FALSE,7,https://img.pokemondb.net/sprites/home/normal/jangmo-o.png
-783,Hakamo-o,Dragon,Fighting,420,55,75,90,65,70,65,FALSE,7,https://img.pokemondb.net/sprites/home/normal/hakamo-o.png
-784,Kommo-o,Dragon,Fighting,600,75,110,125,100,105,85,FALSE,7,https://img.pokemondb.net/sprites/home/normal/kommo-o.png
+782,Jangmo O,Dragon,NA,300,45,55,65,45,45,45,FALSE,7,https://img.pokemondb.net/sprites/home/normal/jangmo-o.png
+783,Hakamo O,Dragon,Fighting,420,55,75,90,65,70,65,FALSE,7,https://img.pokemondb.net/sprites/home/normal/hakamo-o.png
+784,Kommo O,Dragon,Fighting,600,75,110,125,100,105,85,FALSE,7,https://img.pokemondb.net/sprites/home/normal/kommo-o.png
 785,Tapu Koko,Electric,Fairy,570,70,115,85,95,75,130,TRUE,7,https://img.pokemondb.net/sprites/home/normal/tapu-koko.png
 786,Tapu Lele,Psychic,Fairy,570,70,85,75,130,115,95,TRUE,7,https://img.pokemondb.net/sprites/home/normal/tapu-lele.png
 787,Tapu Bulu,Grass,Fairy,570,70,130,115,85,95,75,TRUE,7,https://img.pokemondb.net/sprites/home/normal/tapu-bulu.png
@@ -954,9 +958,9 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 798,Kartana,Grass,Steel,570,59,181,131,59,31,109,TRUE,7,https://img.pokemondb.net/sprites/home/normal/kartana.png
 799,Guzzlord,Dark,Dragon,570,223,101,53,97,53,43,TRUE,7,https://img.pokemondb.net/sprites/home/normal/guzzlord.png
 800,Necrozma,Psychic,NA,600,97,107,101,127,89,79,TRUE,7,https://img.pokemondb.net/sprites/home/normal/necrozma.png
-800,Necrozma Dusk Mane Necrozma,Psychic,Steel,680,97,157,127,113,109,77,FALSE,7,https://img.pokemondb.net/sprites/home/normal/necrozma-dusk-mane-necrozma.png
-800,Necrozma Dawn Wings Necrozma,Psychic,Ghost,680,97,113,109,157,127,77,FALSE,7,https://img.pokemondb.net/sprites/home/normal/necrozma-dawn-wings-necrozma.png
-800,Necrozma Ultra Necrozma,Psychic,Dragon,754,97,167,97,167,97,129,FALSE,7,https://img.pokemondb.net/sprites/home/normal/necrozma-ultra-necrozma.png
+800,Necrozma Dusk Mane,Psychic,Steel,680,97,157,127,113,109,77,FALSE,7,https://img.pokemondb.net/sprites/home/normal/necrozma-dusk-mane.png
+800,Necrozma Dawn Wings,Psychic,Ghost,680,97,113,109,157,127,77,FALSE,7,https://img.pokemondb.net/sprites/home/normal/necrozma-dawn-wings.png
+800,Necrozma Ultra,Psychic,Dragon,754,97,167,97,167,97,129,FALSE,7,https://img.pokemondb.net/sprites/home/normal/necrozma-ultra.png
 801,Magearna,Steel,Fairy,600,80,95,115,130,115,65,TRUE,7,https://img.pokemondb.net/sprites/home/normal/magearna.png
 802,Marshadow,Fighting,Ghost,600,90,125,80,90,90,125,TRUE,7,https://img.pokemondb.net/sprites/home/normal/marshadow.png
 803,Poipole,Poison,NA,420,67,73,67,73,67,73,TRUE,7,https://img.pokemondb.net/sprites/home/normal/poipole.png
@@ -1005,8 +1009,8 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 846,Arrokuda,Water,NA,280,41,63,40,40,30,66,FALSE,8,https://img.pokemondb.net/sprites/home/normal/arrokuda.png
 847,Barraskewda,Water,NA,490,61,123,60,60,50,136,FALSE,8,https://img.pokemondb.net/sprites/home/normal/barraskewda.png
 848,Toxel,Electric,Poison,242,40,38,35,54,35,40,FALSE,8,https://img.pokemondb.net/sprites/home/normal/toxel.png
-849,Toxtricity Low Key Form,Electric,Poison,502,75,98,70,114,70,75,FALSE,8,https://img.pokemondb.net/sprites/home/normal/toxtricity-low-key-form.png
 849,Toxtricity Amped Form,Electric,Poison,502,75,98,70,114,70,75,FALSE,8,https://img.pokemondb.net/sprites/home/normal/toxtricity-amped-form.png
+849,Toxtricity Low Key Form,Electric,Poison,502,75,98,70,114,70,75,FALSE,8,https://img.pokemondb.net/sprites/home/normal/toxtricity-low-key-form.png
 850,Sizzlipede,Fire,Bug,305,50,65,45,50,50,45,FALSE,8,https://img.pokemondb.net/sprites/home/normal/sizzlipede.png
 851,Centiskorch,Fire,Bug,525,100,115,65,90,90,65,FALSE,8,https://img.pokemondb.net/sprites/home/normal/centiskorch.png
 852,Clobbopus,Fighting,NA,310,50,68,60,50,50,32,FALSE,8,https://img.pokemondb.net/sprites/home/normal/clobbopus.png
@@ -1023,7 +1027,7 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 863,Perrserker,Steel,NA,440,70,110,100,50,60,50,FALSE,8,https://img.pokemondb.net/sprites/home/normal/perrserker.png
 864,Cursola,Ghost,NA,510,60,95,50,145,130,30,FALSE,8,https://img.pokemondb.net/sprites/home/normal/cursola.png
 865,Sirfetch'd,Fighting,NA,507,62,135,95,68,82,65,FALSE,8,https://img.pokemondb.net/sprites/home/normal/sirfetch'd.png
-866,Mr. Rime,Ice,Psychic,520,80,85,75,110,100,70,FALSE,8,https://img.pokemondb.net/sprites/home/normal/mr.-rime.png
+866,Mr  Rime,Ice,Psychic,520,80,85,75,110,100,70,FALSE,8,https://img.pokemondb.net/sprites/home/normal/mr--rime.png
 867,Runerigus,Ground,Ghost,483,58,95,145,50,105,30,FALSE,8,https://img.pokemondb.net/sprites/home/normal/runerigus.png
 868,Milcery,Fairy,NA,270,45,40,40,50,61,34,FALSE,8,https://img.pokemondb.net/sprites/home/normal/milcery.png
 869,Alcremie,Fairy,NA,495,65,60,75,110,121,64,FALSE,8,https://img.pokemondb.net/sprites/home/normal/alcremie.png
@@ -1048,10 +1052,10 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 885,Dreepy,Dragon,Ghost,270,28,60,30,40,30,82,FALSE,8,https://img.pokemondb.net/sprites/home/normal/dreepy.png
 886,Drakloak,Dragon,Ghost,410,68,80,50,60,50,102,FALSE,8,https://img.pokemondb.net/sprites/home/normal/drakloak.png
 887,Dragapult,Dragon,Ghost,600,88,120,75,100,75,142,FALSE,8,https://img.pokemondb.net/sprites/home/normal/dragapult.png
-888,Zacian Crowned Sword,Fairy,Steel,720,92,170,115,80,115,148,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zacian-crowned-sword.png
-888,Zacian Hero of Many Battles,Fairy,NA,670,92,130,115,80,115,138,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zacian-hero-of-many-battles.png
-889,Zamazenta Crowned Shield,Fighting,Steel,720,92,130,145,80,145,128,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zamazenta-crowned-shield.png
-889,Zamazenta Hero of Many Battles,Fighting,NA,670,92,130,115,80,115,138,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zamazenta-hero-of-many-battles.png
+888,Zacian Hero Of Many Battles,Fairy,NA,660,92,120,115,80,115,138,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zacian-hero-of-many-battles.png
+888,Zacian Crowned Sword,Fairy,Steel,700,92,150,115,80,115,148,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zacian-crowned-sword.png
+889,Zamazenta Hero Of Many Battles,Fighting,NA,660,92,120,115,80,115,138,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zamazenta-hero-of-many-battles.png
+889,Zamazenta Crowned Shield,Fighting,Steel,700,92,120,140,80,140,128,FALSE,8,https://img.pokemondb.net/sprites/home/normal/zamazenta-crowned-shield.png
 890,Eternatus,Poison,Dragon,690,140,85,95,145,95,130,TRUE,8,https://img.pokemondb.net/sprites/home/normal/eternatus.png
 890,Eternatus Eternamax,Poison,Dragon,1125,255,115,250,125,250,130,FALSE,8,https://img.pokemondb.net/sprites/home/normal/eternatus-eternamax.png
 891,Kubfu,Fighting,NA,385,60,90,60,53,50,72,TRUE,8,https://img.pokemondb.net/sprites/home/normal/kubfu.png
@@ -1067,10 +1071,126 @@ number,name,type1,type2,total,hp,attack,defense,sp_atk,sp_def,speed,legendary,ge
 898,Calyrex Shadow Rider,Psychic,Ghost,680,100,85,80,165,100,150,FALSE,8,https://img.pokemondb.net/sprites/home/normal/calyrex-shadow-rider.png
 899,Wyrdeer,Normal,Psychic,525,103,105,72,105,75,65,FALSE,8,https://img.pokemondb.net/sprites/home/normal/wyrdeer.png
 900,Kleavor,Bug,Rock,500,70,135,95,45,70,85,FALSE,8,https://img.pokemondb.net/sprites/home/normal/kleavor.png
-901,Ursaluna,Normal,Ground,550,130,140,105,45,80,50,FALSE,8,https://img.pokemondb.net/sprites/home/normal/ursaluna.png
+901,Ursaluna,Ground,Normal,550,130,140,105,45,80,50,FALSE,8,https://img.pokemondb.net/sprites/home/normal/ursaluna.png
+901,Ursaluna Bloodmoon,Ground,Normal,555,113,70,120,135,65,52,FALSE,8,https://img.pokemondb.net/sprites/home/normal/ursaluna-bloodmoon.png
 902,Basculegion Male,Water,Ghost,530,120,112,65,80,75,78,FALSE,8,https://img.pokemondb.net/sprites/home/normal/basculegion-male.png
 902,Basculegion Female,Water,Ghost,530,120,92,65,100,75,78,FALSE,8,https://img.pokemondb.net/sprites/home/normal/basculegion-female.png
-903,Sneasler,Poison,Fighting,510,80,130,60,40,80,120,FALSE,8,https://img.pokemondb.net/sprites/home/normal/sneasler.png
+903,Sneasler,Fighting,Poison,510,80,130,60,40,80,120,FALSE,8,https://img.pokemondb.net/sprites/home/normal/sneasler.png
 904,Overqwil,Dark,Poison,510,85,115,95,65,65,85,FALSE,8,https://img.pokemondb.net/sprites/home/normal/overqwil.png
 905,Enamorus Incarnate Forme,Fairy,Flying,580,74,115,70,135,80,106,FALSE,8,https://img.pokemondb.net/sprites/home/normal/enamorus-incarnate-forme.png
 905,Enamorus Therian Forme,Fairy,Flying,580,74,115,110,135,100,46,FALSE,8,https://img.pokemondb.net/sprites/home/normal/enamorus-therian-forme.png
+906,Sprigatito,Grass,NA,310,40,61,54,45,45,65,FALSE,9,https://img.pokemondb.net/sprites/home/normal/sprigatito.png
+907,Floragato,Grass,NA,410,61,80,63,60,63,83,FALSE,9,https://img.pokemondb.net/sprites/home/normal/floragato.png
+908,Meowscarada,Grass,Dark,530,76,110,70,81,70,123,FALSE,9,https://img.pokemondb.net/sprites/home/normal/meowscarada.png
+909,Fuecoco,Fire,NA,310,67,45,59,63,40,36,FALSE,9,https://img.pokemondb.net/sprites/home/normal/fuecoco.png
+910,Crocalor,Fire,NA,411,81,55,78,90,58,49,FALSE,9,https://img.pokemondb.net/sprites/home/normal/crocalor.png
+911,Skeledirge,Fire,Ghost,530,104,75,100,110,75,66,FALSE,9,https://img.pokemondb.net/sprites/home/normal/skeledirge.png
+912,Quaxly,Water,NA,310,55,65,45,50,45,50,FALSE,9,https://img.pokemondb.net/sprites/home/normal/quaxly.png
+913,Quaxwell,Water,NA,410,70,85,65,65,60,65,FALSE,9,https://img.pokemondb.net/sprites/home/normal/quaxwell.png
+914,Quaquaval,Water,Fighting,530,85,120,80,85,75,85,FALSE,9,https://img.pokemondb.net/sprites/home/normal/quaquaval.png
+915,Lechonk,Normal,NA,254,54,45,40,35,45,35,FALSE,9,https://img.pokemondb.net/sprites/home/normal/lechonk.png
+916,Oinkologne Male,Normal,NA,489,110,100,75,59,80,65,FALSE,9,https://img.pokemondb.net/sprites/home/normal/oinkologne-male.png
+916,Oinkologne Female,Normal,NA,489,115,90,70,59,90,65,FALSE,9,https://img.pokemondb.net/sprites/home/normal/oinkologne-female.png
+917,Tarountula,Bug,NA,210,35,41,45,29,40,20,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tarountula.png
+918,Spidops,Bug,NA,404,60,79,92,52,86,35,FALSE,9,https://img.pokemondb.net/sprites/home/normal/spidops.png
+919,Nymble,Bug,NA,210,33,46,40,21,25,45,FALSE,9,https://img.pokemondb.net/sprites/home/normal/nymble.png
+920,Lokix,Bug,Dark,450,71,102,78,52,55,92,FALSE,9,https://img.pokemondb.net/sprites/home/normal/lokix.png
+921,Pawmi,Electric,NA,240,45,50,20,40,25,60,FALSE,9,https://img.pokemondb.net/sprites/home/normal/pawmi.png
+922,Pawmo,Electric,Fighting,350,60,75,40,50,40,85,FALSE,9,https://img.pokemondb.net/sprites/home/normal/pawmo.png
+923,Pawmot,Electric,Fighting,490,70,115,70,70,60,105,FALSE,9,https://img.pokemondb.net/sprites/home/normal/pawmot.png
+924,Tandemaus,Normal,NA,305,50,50,45,40,45,75,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tandemaus.png
+925,Maushold Family Of Four,Normal,NA,470,74,75,70,65,75,111,FALSE,9,https://img.pokemondb.net/sprites/home/normal/maushold-family-of-four.png
+925,Maushold Family Of Three,Normal,NA,470,74,75,70,65,75,111,FALSE,9,https://img.pokemondb.net/sprites/home/normal/maushold-family-of-three.png
+926,Fidough,Fairy,NA,312,37,55,70,30,55,65,FALSE,9,https://img.pokemondb.net/sprites/home/normal/fidough.png
+927,Dachsbun,Fairy,NA,477,57,80,115,50,80,95,FALSE,9,https://img.pokemondb.net/sprites/home/normal/dachsbun.png
+928,Smoliv,Grass,Normal,260,41,35,45,58,51,30,FALSE,9,https://img.pokemondb.net/sprites/home/normal/smoliv.png
+929,Dolliv,Grass,Normal,354,52,53,60,78,78,33,FALSE,9,https://img.pokemondb.net/sprites/home/normal/dolliv.png
+930,Arboliva,Grass,Normal,510,78,69,90,125,109,39,FALSE,9,https://img.pokemondb.net/sprites/home/normal/arboliva.png
+931,Squawkabilly Green Plumage,Normal,Flying,417,82,96,51,45,51,92,FALSE,9,https://img.pokemondb.net/sprites/home/normal/squawkabilly-green-plumage.png
+931,Squawkabilly Blue Plumage,Normal,Flying,417,82,96,51,45,51,92,FALSE,9,https://img.pokemondb.net/sprites/home/normal/squawkabilly-blue-plumage.png
+931,Squawkabilly Yellow Plumage,Normal,Flying,417,82,96,51,45,51,92,FALSE,9,https://img.pokemondb.net/sprites/home/normal/squawkabilly-yellow-plumage.png
+931,Squawkabilly White Plumage,Normal,Flying,417,82,96,51,45,51,92,FALSE,9,https://img.pokemondb.net/sprites/home/normal/squawkabilly-white-plumage.png
+932,Nacli,Rock,NA,280,55,55,75,35,35,25,FALSE,9,https://img.pokemondb.net/sprites/home/normal/nacli.png
+933,Naclstack,Rock,NA,355,60,60,100,35,65,35,FALSE,9,https://img.pokemondb.net/sprites/home/normal/naclstack.png
+934,Garganacl,Rock,NA,500,100,100,130,45,90,35,FALSE,9,https://img.pokemondb.net/sprites/home/normal/garganacl.png
+935,Charcadet,Fire,NA,255,40,50,40,50,40,35,FALSE,9,https://img.pokemondb.net/sprites/home/normal/charcadet.png
+936,Armarouge,Fire,Psychic,525,85,60,100,125,80,75,FALSE,9,https://img.pokemondb.net/sprites/home/normal/armarouge.png
+937,Ceruledge,Fire,Ghost,525,75,125,80,60,100,85,FALSE,9,https://img.pokemondb.net/sprites/home/normal/ceruledge.png
+938,Tadbulb,Electric,NA,272,61,31,41,59,35,45,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tadbulb.png
+939,Bellibolt,Electric,NA,495,109,64,91,103,83,45,FALSE,9,https://img.pokemondb.net/sprites/home/normal/bellibolt.png
+940,Wattrel,Electric,Flying,280,40,40,35,55,40,70,FALSE,9,https://img.pokemondb.net/sprites/home/normal/wattrel.png
+941,Kilowattrel,Electric,Flying,490,70,70,60,105,60,125,FALSE,9,https://img.pokemondb.net/sprites/home/normal/kilowattrel.png
+942,Maschiff,Dark,NA,340,60,78,60,40,51,51,FALSE,9,https://img.pokemondb.net/sprites/home/normal/maschiff.png
+943,Mabosstiff,Dark,NA,505,80,120,90,60,70,85,FALSE,9,https://img.pokemondb.net/sprites/home/normal/mabosstiff.png
+944,Shroodle,Poison,Normal,290,40,65,35,40,35,75,FALSE,9,https://img.pokemondb.net/sprites/home/normal/shroodle.png
+945,Grafaiai,Poison,Normal,485,63,95,65,80,72,110,FALSE,9,https://img.pokemondb.net/sprites/home/normal/grafaiai.png
+946,Bramblin,Grass,Ghost,275,40,65,30,45,35,60,FALSE,9,https://img.pokemondb.net/sprites/home/normal/bramblin.png
+947,Brambleghast,Grass,Ghost,480,55,115,70,80,70,90,FALSE,9,https://img.pokemondb.net/sprites/home/normal/brambleghast.png
+948,Toedscool,Ground,Grass,335,40,40,35,50,100,70,FALSE,9,https://img.pokemondb.net/sprites/home/normal/toedscool.png
+949,Toedscruel,Ground,Grass,515,80,70,65,80,120,100,FALSE,9,https://img.pokemondb.net/sprites/home/normal/toedscruel.png
+950,Klawf,Rock,NA,450,70,100,115,35,55,75,FALSE,9,https://img.pokemondb.net/sprites/home/normal/klawf.png
+951,Capsakid,Grass,NA,304,50,62,40,62,40,50,FALSE,9,https://img.pokemondb.net/sprites/home/normal/capsakid.png
+952,Scovillain,Grass,Fire,486,65,108,65,108,65,75,FALSE,9,https://img.pokemondb.net/sprites/home/normal/scovillain.png
+953,Rellor,Bug,NA,270,41,50,60,31,58,30,FALSE,9,https://img.pokemondb.net/sprites/home/normal/rellor.png
+954,Rabsca,Bug,Psychic,470,75,50,85,115,100,45,FALSE,9,https://img.pokemondb.net/sprites/home/normal/rabsca.png
+955,Flittle,Psychic,NA,255,30,35,30,55,30,75,FALSE,9,https://img.pokemondb.net/sprites/home/normal/flittle.png
+956,Espathra,Psychic,NA,481,95,60,60,101,60,105,FALSE,9,https://img.pokemondb.net/sprites/home/normal/espathra.png
+957,Tinkatink,Fairy,Steel,297,50,45,45,35,64,58,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tinkatink.png
+958,Tinkatuff,Fairy,Steel,380,65,55,55,45,82,78,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tinkatuff.png
+959,Tinkaton,Fairy,Steel,506,85,75,77,70,105,94,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tinkaton.png
+960,Wiglett,Water,NA,245,10,55,25,35,25,95,FALSE,9,https://img.pokemondb.net/sprites/home/normal/wiglett.png
+961,Wugtrio,Water,NA,425,35,100,50,50,70,120,FALSE,9,https://img.pokemondb.net/sprites/home/normal/wugtrio.png
+962,Bombirdier,Flying,Dark,485,70,103,85,60,85,82,FALSE,9,https://img.pokemondb.net/sprites/home/normal/bombirdier.png
+963,Finizen,Water,NA,315,70,45,40,45,40,75,FALSE,9,https://img.pokemondb.net/sprites/home/normal/finizen.png
+964,Palafin Zero Form,Water,NA,457,100,70,72,53,62,100,FALSE,9,https://img.pokemondb.net/sprites/home/normal/palafin-zero-form.png
+964,Palafin Hero Form,Water,NA,650,100,160,97,106,87,100,FALSE,9,https://img.pokemondb.net/sprites/home/normal/palafin-hero-form.png
+965,Varoom,Steel,Poison,300,45,70,63,30,45,47,FALSE,9,https://img.pokemondb.net/sprites/home/normal/varoom.png
+966,Revavroom,Steel,Poison,500,80,119,90,54,67,90,FALSE,9,https://img.pokemondb.net/sprites/home/normal/revavroom.png
+967,Cyclizar,Dragon,Normal,501,70,95,65,85,65,121,FALSE,9,https://img.pokemondb.net/sprites/home/normal/cyclizar.png
+968,Orthworm,Steel,NA,480,70,85,145,60,55,65,FALSE,9,https://img.pokemondb.net/sprites/home/normal/orthworm.png
+969,Glimmet,Rock,Poison,350,48,35,42,105,60,60,FALSE,9,https://img.pokemondb.net/sprites/home/normal/glimmet.png
+970,Glimmora,Rock,Poison,525,83,55,90,130,81,86,FALSE,9,https://img.pokemondb.net/sprites/home/normal/glimmora.png
+971,Greavard,Ghost,NA,290,50,61,60,30,55,34,FALSE,9,https://img.pokemondb.net/sprites/home/normal/greavard.png
+972,Houndstone,Ghost,NA,488,72,101,100,50,97,68,FALSE,9,https://img.pokemondb.net/sprites/home/normal/houndstone.png
+973,Flamigo,Flying,Fighting,500,82,115,74,75,64,90,FALSE,9,https://img.pokemondb.net/sprites/home/normal/flamigo.png
+974,Cetoddle,Ice,NA,334,108,68,45,30,40,43,FALSE,9,https://img.pokemondb.net/sprites/home/normal/cetoddle.png
+975,Cetitan,Ice,NA,521,170,113,65,45,55,73,FALSE,9,https://img.pokemondb.net/sprites/home/normal/cetitan.png
+976,Veluza,Water,Psychic,478,90,102,73,78,65,70,FALSE,9,https://img.pokemondb.net/sprites/home/normal/veluza.png
+977,Dondozo,Water,NA,530,150,100,115,65,65,35,FALSE,9,https://img.pokemondb.net/sprites/home/normal/dondozo.png
+978,Tatsugiri Curly Form,Dragon,Water,475,68,50,60,120,95,82,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tatsugiri-curly-form.png
+978,Tatsugiri Droopy Form,Dragon,Water,475,68,50,60,120,95,82,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tatsugiri-droopy-form.png
+978,Tatsugiri Stretchy Form,Dragon,Water,475,68,50,60,120,95,82,FALSE,9,https://img.pokemondb.net/sprites/home/normal/tatsugiri-stretchy-form.png
+979,Annihilape,Fighting,Ghost,535,110,115,80,50,90,90,FALSE,9,https://img.pokemondb.net/sprites/home/normal/annihilape.png
+980,Clodsire,Poison,Ground,430,130,75,60,45,100,20,FALSE,9,https://img.pokemondb.net/sprites/home/normal/clodsire.png
+981,Farigiraf,Normal,Psychic,520,120,90,70,110,70,60,FALSE,9,https://img.pokemondb.net/sprites/home/normal/farigiraf.png
+982,Dudunsparce Two Segment Form,Normal,NA,520,125,100,80,85,75,55,FALSE,9,https://img.pokemondb.net/sprites/home/normal/dudunsparce-two-segment-form.png
+982,Dudunsparce Three Segment Form,Normal,NA,520,125,100,80,85,75,55,FALSE,9,https://img.pokemondb.net/sprites/home/normal/dudunsparce-three-segment-form.png
+983,Kingambit,Dark,Steel,550,100,135,120,60,85,50,FALSE,9,https://img.pokemondb.net/sprites/home/normal/kingambit.png
+984,Great Tusk,Ground,Fighting,570,115,131,131,53,53,87,TRUE,9,https://img.pokemondb.net/sprites/home/normal/great-tusk.png
+985,Scream Tail,Fairy,Psychic,570,115,65,99,65,115,111,TRUE,9,https://img.pokemondb.net/sprites/home/normal/scream-tail.png
+986,Brute Bonnet,Grass,Dark,570,111,127,99,79,99,55,TRUE,9,https://img.pokemondb.net/sprites/home/normal/brute-bonnet.png
+987,Flutter Mane,Ghost,Fairy,570,55,55,55,135,135,135,TRUE,9,https://img.pokemondb.net/sprites/home/normal/flutter-mane.png
+988,Slither Wing,Bug,Fighting,570,85,135,79,85,105,81,TRUE,9,https://img.pokemondb.net/sprites/home/normal/slither-wing.png
+989,Sandy Shocks,Electric,Ground,570,85,81,97,121,85,101,TRUE,9,https://img.pokemondb.net/sprites/home/normal/sandy-shocks.png
+990,Iron Treads,Ground,Steel,570,90,112,120,72,70,106,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-treads.png
+991,Iron Bundle,Ice,Water,570,56,80,114,124,60,136,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-bundle.png
+992,Iron Hands,Fighting,Electric,570,154,140,108,50,68,50,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-hands.png
+993,Iron Jugulis,Dark,Flying,570,94,80,86,122,80,108,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-jugulis.png
+994,Iron Moth,Fire,Poison,570,80,70,60,140,110,110,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-moth.png
+995,Iron Thorns,Rock,Electric,570,100,134,110,70,84,72,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-thorns.png
+996,Frigibax,Dragon,Ice,320,65,75,45,35,45,55,FALSE,9,https://img.pokemondb.net/sprites/home/normal/frigibax.png
+997,Arctibax,Dragon,Ice,423,90,95,66,45,65,62,FALSE,9,https://img.pokemondb.net/sprites/home/normal/arctibax.png
+998,Baxcalibur,Dragon,Ice,600,115,145,92,75,86,87,FALSE,9,https://img.pokemondb.net/sprites/home/normal/baxcalibur.png
+999,Gimmighoul Chest Form,Ghost,NA,300,45,30,70,75,70,10,FALSE,9,https://img.pokemondb.net/sprites/home/normal/gimmighoul-chest-form.png
+999,Gimmighoul Roaming Form,Ghost,NA,300,45,30,25,75,45,80,FALSE,9,https://img.pokemondb.net/sprites/home/normal/gimmighoul-roaming-form.png
+1000,Gholdengo,Steel,Ghost,550,87,60,95,133,91,84,FALSE,9,https://img.pokemondb.net/sprites/home/normal/gholdengo.png
+1001,Wo Chien,Dark,Grass,570,85,85,100,95,135,70,TRUE,9,https://img.pokemondb.net/sprites/home/normal/wo-chien.png
+1002,Chien Pao,Dark,Ice,570,80,120,80,90,65,135,TRUE,9,https://img.pokemondb.net/sprites/home/normal/chien-pao.png
+1003,Ting Lu,Dark,Ground,570,155,110,125,55,80,45,TRUE,9,https://img.pokemondb.net/sprites/home/normal/ting-lu.png
+1004,Chi Yu,Dark,Fire,570,55,80,80,135,120,100,TRUE,9,https://img.pokemondb.net/sprites/home/normal/chi-yu.png
+1005,Roaring Moon,Dragon,Dark,590,105,139,71,55,101,119,TRUE,9,https://img.pokemondb.net/sprites/home/normal/roaring-moon.png
+1006,Iron Valiant,Fairy,Fighting,590,74,130,90,120,60,116,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-valiant.png
+1007,Koraidon,Fighting,Dragon,670,100,135,115,85,100,135,TRUE,9,https://img.pokemondb.net/sprites/home/normal/koraidon.png
+1008,Miraidon,Electric,Dragon,670,100,85,100,135,115,135,TRUE,9,https://img.pokemondb.net/sprites/home/normal/miraidon.png
+1009,Walking Wake,Water,Dragon,590,99,83,91,125,83,109,TRUE,9,https://img.pokemondb.net/sprites/home/normal/walking-wake.png
+1010,Iron Leaves,Grass,Psychic,590,90,130,88,70,108,104,TRUE,9,https://img.pokemondb.net/sprites/home/normal/iron-leaves.png
